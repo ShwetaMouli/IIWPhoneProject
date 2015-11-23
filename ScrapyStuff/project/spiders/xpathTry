@@ -1,0 +1,15 @@
+response.xpath('//div[contains(@class, "glu-info")]/div[contains(@class, "display-title font-13")]/div[contains(@class, "full")]/text()').extract()
+response.xpath('//div[contains(@class, "medium grey-text margin-top-5")]/text()').extract()
+response.xpath('//div[contains(@class, "best-price font-700")]/span[contains(@class, "amount font-24")]/text()').extract()
+response.xpath('//div[contains(@class, "best-price font-700")]/span[contains(@class, "cents font-11")]/text()').extract()
+
+response.xpath('//a[contains(@class, "pl-video-title-link yt-uix-tile-link yt-uix-sessionlink  spf-link ")]/text()').extract()
+response.xpath('//a[contains(@class, "pl-video-title-link yt-uix-tile-link yt-uix-sessionlink  spf-link ")]/@href').extract()
+
+<div class='best-price font-700'>
+<span class='dollar font-11'>$</span>
+<span class='amount font-24'>657</span>
+<span class='cents font-11'>
+00
+</span>
+</div>
