@@ -1,7 +1,7 @@
 <?php require_once 'dbconfig.php';
 
 if(isset($_POST['search_text']) && !empty($_POST['search_text']) ){
-	$result = mysqli_query($con,"SELECT * FROM phonescoop where phone_model LIKE '%".$_POST['search_text']."%'");
+	$result = mysqli_query($con,"SELECT * FROM phonearena where phone_model ='".$_POST['search_text']."'");
 	$img_url=null;
 	$site_url=null;
 	$model=null;
