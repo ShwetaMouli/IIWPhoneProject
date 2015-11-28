@@ -1,0 +1,12 @@
+.all_background {
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.tbody{
+  overflow-y: scroll;
+  height: 300px;
+  width: 100%;
+  position: absolute;
+}
