@@ -1,0 +1,9 @@
+index = 1
+with open('/Users/shmouli/Documents/Sem3/IIW/Project/Data/MobileTechReviews', 'r') as embedlinks:
+	with open('MTRembedLinks', 'w') as cleanLinks:
+		for embedlink in embedlinks:
+			embedlink = embedlink.replace("https://www.youtube.com/watch?v=","")
+			embedlink = embedlink.replace("&index="+str(index), "")
+			embedlink = embedlink.replace("&", "?")
+			index += 1
+			cleanLinks.write(embedlink)

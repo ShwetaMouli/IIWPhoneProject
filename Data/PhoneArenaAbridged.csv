@@ -1,0 +1,413 @@
+announced_date,battery,camera,current_status,dimensions,display_inches,image,is_Touch,memory,os,phone_model,processor,ram,resolution,url,weight
+22-Oct-15,,5 megapixels,Released, 5.35 x 2.67 x 0.39 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/57503-specs/Huawei-Y5.jpg, Multi-touch,, Android (5.1) Emotion 3.1 Lite UI,Huawei Y5," Quad-core, 1100 MHz, ARM Cortex-A7",1024 MB , 480 x 854 pixels,http://www.phonearena.com/phones/Huawei-Y5_id9770,142 g
+26-Feb-12,,8 megapixels,Released, 5.15 x 2.56 x 0.31 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/35109-specs/HTC-One-S.jpg, Multi-touch,16 GB," Android (4.1.1, 4.0.4, 4.0.3) Sense 4.1 UI",HTC One S," Dual-core, 1500 MHz, Krait",1024 MB , 540 x 960 pixels,http://www.phonearena.com/phones/HTC-One-S_id6579,120 g
+10-Jan-12,,12.1 megapixels,, 5.04 x 2.52 x 0.42 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/34449-specs/Sony-Xperia-S.jpg, Multi-touch,," Android (4.1, 4.0.4, 2.3.7, 2.3.5)",Sony Xperia S," Dual-core, 1500 MHz",1024 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/Sony-Xperia-S_id6220,144 g
+23-Feb-12,,8 megapixels,Released, 5.21 x 2.68 x 0.35 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/35145-specs/LG-Optimus-4X-HD.jpg, Multi-touch,16 GB," Android (4.1, 4.0.3) Optimus UI",LG Optimus 4X HD," Quad-core, 1500 MHz, ARM Cortex-A9",1024 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/LG-Optimus-4X-HD_id6848,141 g
+9-Jan-07,,,Released, 4.50 x 2.40 x 0.46 inches,,http://i-cdn.phonearena.com/images/phones/9090-specs/Apple-iPhone.jpg,,," iOS (3.x, 2.x, 1.x)",Apple iPhone,,,,http://www.phonearena.com/phones/Apple-iPhone_id1886,135 g
+5-Jan-11,,,, 9.80 x 6.61 x 0.51 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/25548-specs/Motorola-XOOM-CDMA.jpg,,," Android (4.0, 3.0)",Motorola XOOM CDMA,,,,http://www.phonearena.com/phones/Motorola-XOOM-CDMA_id5123,730 g
+28-Sep-11,,,Released, 7.48 x 4.72 x 0.45 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/31744-specs/Amazon-Kindle-Fire.jpg,,, Android (2.3),Amazon Kindle Fire,,, 1024 x 600 pixels,http://www.phonearena.com/phones/Amazon-Kindle-Fire_id6185,413 g
+6-Sep-12,,,Released, 9.4 x 6.4 x 0.35 inches,,http://i-cdn.phonearena.com/images/phones/37969-specs/Amazon-Kindle-Fire-HD-8.9-4G-LTE.jpg,,, Android (4.0),Amazon Kindle Fire HD 8.9 4G LTE,,,,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-8.9-4G-LTE_id7491,575 g
+19-Sep-12,,8 megapixels,Released, 5.94 x 3.17 x 0.37 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/38014-specs/Samsung-GALAXY-Note-II-Verizon.jpg, Multi-touch,16 GB," Android (4.4.2, 4.1)",Samsung GALAXY Note II Verizon," Quad-core, 1600 MHz, ARM Cortex-A9",2048 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/Samsung-GALAXY-Note-II-Verizon_id7494,182 g
+19-Sep-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/38007-specs/Samsung-GALAXY-Note-II-AT-T.jpg,,," Android (4.3, 4.1.2, 4.1)",Samsung GALAXY Note II AT&T,,,,http://www.phonearena.com/phones/Samsung-GALAXY-Note-II-AT-T_id7500,
+19-Sep-12,,8 megapixels,Released, 5.94 x 3.17 x 0.37 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/38009-specs/Samsung-GALAXY-Note-II-Sprint.jpg, Multi-touch,, Android (4.1),Samsung GALAXY Note II Sprint," Quad-core, 1600 MHz, ARM Cortex-A9",2048 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/Samsung-GALAXY-Note-II-Sprint_id7501,180 g
+19-Sep-12,,8 megapixels,Released, 5.94 x 3.16 x 0.37 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/38011-specs/Samsung-GALAXY-Note-II-T-Mobile.jpg, Multi-touch,16 GB, Android (4.1),Samsung GALAXY Note II T-Mobile," Quad-core, 1600 MHz, ARM Cortex-A9",2048 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/Samsung-GALAXY-Note-II-T-Mobile_id7502,180 g
+19-Sep-12,,8 megapixels,Released, 5.94 x 3.17 x 0.37 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/38604-specs/Samsung-GALAXY-Note-II-US-Cellular.jpg, Multi-touch,16 GB, Android (4.1),Samsung GALAXY Note II US Cellular," Quad-core, 1600 MHz, ARM Cortex-A9",2048 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/Samsung-GALAXY-Note-II-US-Cellular_id7550,182 g
+6-Sep-12,,1.3 megapixels,Released, 7.6 x 5.4 x 0.4 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/37960-specs/Amazon-Kindle-Fire-HD.jpg, Multi-touch,, Android (4.0),Amazon Kindle Fire HD,,, 1280 x 800 pixels,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HD_id7490,395 g
+6-Sep-12,,,Released, 7.44 x 4.72 x 0.45 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/37975-specs/Amazon-Kindle-Fire-2.jpg,,, Android (4.0),Amazon Kindle Fire 2," Dual-core, 1200 MHz, ARM Cortex-A9",1024 MB , 1024 x 600 pixels,http://www.phonearena.com/phones/Amazon-Kindle-Fire-2_id7489,400 g
+6-Sep-12,,1.3 megapixels,Released, 9.4 x 6.4 x 0.35 inches, 8.9 inches,http://i-cdn.phonearena.com/images/phones/37963-specs/Amazon-Kindle-Fire-HD-8.9.jpg, Multi-touch,, Android (4.0),Amazon Kindle Fire HD 8.9,,, 1920 x 1200 pixels,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-8.9_id7488,567 g
+25-Sep-13,,,,,,http://i-cdn.phonearena.com/images/phones/42940-specs/Amazon-Kindle-Fire-HDX-8.9.jpg,,16 GB, Android (4.2.2) Fire OS 3.0 UI,Amazon Kindle Fire HDX 8.9," Quad-core, 2200 MHz, Krait 400",2048 MB ,,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HDX-8.9_id8156,
+25-Sep-13,,,Released, 7.32 x 5.04 x 0.35 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/42944-specs/Amazon-Kindle-Fire-HDX-7.jpg, Multi-touch,, Android (4.2.2) Fire OS 3.0 UI,Amazon Kindle Fire HDX 7,,, 1920 x 1200 pixels,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HDX-7_id8158,311 g
+25-Sep-13,,,Released,,,http://i-cdn.phonearena.com/images/phones/42943-specs/Amazon-Kindle-Fire-HD-2013.jpg,,, Android (4.2.2) Fire OS 3.0 UI,Amazon Kindle Fire HD (2013),,,,http://www.phonearena.com/phones/Amazon-Kindle-Fire-HD-2013_id8157,
+17-Sep-14,,,Released,,,http://i-cdn.phonearena.com/images/phones/49180-specs/Amazon-Fire-HD-7.jpg,,, Android (4.4) Fire OS 4 UI,Amazon Fire HD 7,,,,http://www.phonearena.com/phones/Amazon-Fire-HD-7_id8927,
+17-Sep-14,,,Released,,,http://i-cdn.phonearena.com/images/phones/49183-specs/Amazon-Fire-HD-6.jpg,,, Android (4.4) Fire OS 4 UI,Amazon Fire HD 6,,,,http://www.phonearena.com/phones/Amazon-Fire-HD-6_id8928,
+17-Sep-15,,,Released, 10.31 x 6.26 x 0.30 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/55349-specs/Amazon-Fire-HD-10.jpg,,, Android (5.0) Fire OS 5 UI,Amazon Fire HD 10,,, 1280 x 800 pixels,http://www.phonearena.com/phones/Amazon-Fire-HD-10_id9653,432 g
+17-Sep-15,,,Released, 7.52 x 4.53 x 0.42 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/55340-specs/Amazon-Fire.jpg,,, Android (5.0) Fire OS 5 UI,Amazon Fire,,, 600 x 1024 pixels,http://www.phonearena.com/phones/Amazon-Fire_id9651,313 g
+17-Sep-15,,,Released, 8.43 x 5.04 x 0.30 inches, 8.0 inches,http://i-cdn.phonearena.com/images/phones/55344-specs/Amazon-Fire-HD-8.jpg,,, Android (5.0) Fire OS 5 UI,Amazon Fire HD 8,,, 800 x 1280 pixels,http://www.phonearena.com/phones/Amazon-Fire-HD-8_id9652,311 g
+14-Feb-11,,,, 9.80 x 6.61 x 0.51 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/26932-specs/Motorola-XOOM.jpg,,," Android (4.0, 3.2, 3.1, 3.0)",Motorola XOOM,,,,http://www.phonearena.com/phones/Motorola-XOOM_id5221,730 g
+14-Feb-11,,,, 9.80 x 6.61 x 0.51 inches,,http://i-cdn.phonearena.com/images/phones/26936-specs/Motorola-XOOM-Wi-Fi.jpg,,," Android (4.1.2, 4.1, 4.0.4, 4.0, 3.2, 3.1, 3.0)",Motorola XOOM Wi-Fi,,,,http://www.phonearena.com/phones/Motorola-XOOM-Wi-Fi_id5222,
+3-Nov-11,,5 megapixels,, 10.00 x 6.83 x 0.35 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/32370-specs/Motorola-XOOM-2.jpg, Multi-touch,, Android (3.2),Motorola XOOM 2,,, 1280 x 800 pixels,http://www.phonearena.com/phones/Motorola-XOOM-2_id6402,599 g
+3-Nov-11,,5 megapixels,, 8.50 x 5.47 x 0.35 inches, 8.2 inches,http://i-cdn.phonearena.com/images/phones/32374-specs/Motorola-XOOM-2-Media-Edition.jpg, Multi-touch,, Android (3.2),Motorola XOOM 2 Media Edition,,, 1280 x 800 pixels,http://www.phonearena.com/phones/Motorola-XOOM-2-Media-Edition_id6403,386 g
+6-Dec-11,,5 megapixels,Released, 10.00 x 6.83 x 0.35 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/33659-specs/Motorola-DROID-XYBOARD-10.1.jpg, Multi-touch,, Android (3.2),Motorola DROID XYBOARD 10.1,,, 1280 x 800 pixels,http://www.phonearena.com/phones/Motorola-DROID-XYBOARD-10.1_id6686,599 g
+6-Dec-11,,,Released, 8.50 x 5.47 x 0.35 inches,,http://i-cdn.phonearena.com/images/phones/33663-specs/Motorola-DROID-XYBOARD-8.2.jpg,,," Android (4.0, 3.2)",Motorola DROID XYBOARD 8.2,,,,http://www.phonearena.com/phones/Motorola-DROID-XYBOARD-8.2_id6687,386 g
+9-Jun-08,,2 megapixels,Released, 4.50 x 2.40 x 0.48 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/10530-specs/Apple-iPhone-3G.jpg, Multi-touch,," iOS (4.x, 3.x, 2.x)",Apple iPhone 3G,,, 320 x 480 pixels,http://www.phonearena.com/phones/Apple-iPhone-3G_id2962,133 g
+8-Jun-09,,3 megapixels,Released, 4.50 x 2.40 x 0.48 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/16112-specs/Apple-iPhone-3GS.jpg, Multi-touch,," iOS (6.1, 6, 5.1, 5, 4.x, 3.x)",Apple iPhone 3GS,,, 320 x 480 pixels,http://www.phonearena.com/phones/Apple-iPhone-3GS_id3774,135 g
+11-Jan-11,,5 megapixels,Released, 4.54 x 2.31 x 0.37 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/26122-specs/Apple-iPhone-4-Verizon.jpg, Multi-touch,32 GB," iOS (7.x, 6.1, 6, 5.1, 5, 4.x)",Apple iPhone 4 Verizon," Single core, 1000 MHz, ARM Cortex-A8",512 MB , 640 x 960 pixels,http://www.phonearena.com/phones/Apple-iPhone-4-Verizon_id5132,137 g
+10-Sep-13,,8 megapixels,Released, 4.90 x 2.33 x 0.35 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/42880-specs/Apple-iPhone-5c.jpg, Multi-touch,," iOS (9.x, 8.x, 7.x)",Apple iPhone 5c," Dual-core, 1300 MHz, Swift",1016 MB , 640 x 1136 pixels,http://www.phonearena.com/phones/Apple-iPhone-5c_id7983,132 g
+20-Aug-14,,8 megapixels,Released, 5.44 x 2.78 x 0.42 inches, 5.0 inches,http://i-cdn.phonearena.com/images/phones/50158-specs/LG-L-Bello.jpg, Multi-touch,8 GB, Android (4.4.2),LG L Bello," Quad-core, 1300 MHz",1024 MB , 480 x 854 pixels,http://www.phonearena.com/phones/LG-L-Bello_id8841,137 g
+20-Aug-14,,8 megapixels,Released, 5.02 x 2.67 x 0.47 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/49677-specs/LG-L-Fino.jpg, Multi-touch,, Android (4.4.2),LG L Fino,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-L-Fino_id8844,145 g
+26-Aug-14,,13 megapixels,, 5.88 x 2.99 x 0.40 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/48650-specs/LG-G3-Stylus.jpg, Multi-touch,, Android (4.4.2) UX UI,LG G3 Stylus,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-G3-Stylus_id8857,163 g
+12-Sep-14,,,, 5.01 x 2.63 x 0.38 inches,,http://i-cdn.phonearena.com/images/phones/48990-specs/LG-REALM.jpg,,, Android (4.4),LG REALM,,,,http://www.phonearena.com/phones/LG-REALM_id8920,136 g
+12-Sep-14,,,,,,http://i-cdn.phonearena.com/images/phones/48999-specs/LG-TRUE.jpg,,,,LG TRUE,,,,http://www.phonearena.com/phones/LG-TRUE_id8921,
+1-Oct-14,,5 megapixels,, 5.02 x 2.67 x 0.42 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/49375-specs/LG-F60.jpg, Multi-touch,, Android (4.4.2),LG F60,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-F60_id8938,130 g
+7-Oct-14,,5 megapixels,, 5.02 x 2.67 x 0.42 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/49430-specs/LG-TRIBUTE.jpg, Multi-touch,, Android (4.4.2),LG TRIBUTE,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-TRIBUTE_id8951,139 g
+8-Jan-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/11987-specs/LG-GD910.jpg,,,,LG GD910,,,,http://www.phonearena.com/phones/LG-GD910_id3368,
+11-Jun-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16294-specs/LG-Tritan.jpg,,,,LG Tritan,,,,http://www.phonearena.com/phones/LG-Tritan_id3306,
+25-Jun-09,,,,,,http://i-cdn.phonearena.com/images/phones/19603-specs/LG-KP260.jpg,,,,LG KP260,,,,http://www.phonearena.com/phones/LG-KP260_id2993,
+26-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20798-specs/LG-GS155.jpg,,,,LG GS155,,,,http://www.phonearena.com/phones/LG-GS155_id4580,
+26-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20624-specs/LG-GT400.jpg,,,,LG GT400,,,,http://www.phonearena.com/phones/LG-GT400_id4489,
+15-Apr-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/33266-specs/LG-C375.jpg,,,,LG C375,,,,http://www.phonearena.com/phones/LG-C375_id5413,
+5-May-11,,,,,,http://i-cdn.phonearena.com/images/phones/33936-specs/LG-A210.jpg,,,,LG A210,,,,http://www.phonearena.com/phones/LG-A210_id5498,
+3-Oct-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/38420-specs/LG-Optimus-G-AT-T.jpg,,," Android (4.1.2, 4.0.4)",LG Optimus G AT&T,,,,http://www.phonearena.com/phones/LG-Optimus-G-AT-T_id7479,
+25-Oct-13,,,,,,http://i-cdn.phonearena.com/images/phones/43493-specs/LG-Wine-III.jpg,,,,LG Wine III,,,,http://www.phonearena.com/phones/LG-Wine-III_id8198,
+28-Oct-13,,,, 6.32 x 3.21 x 0.31 inches, 6.0 inches,http://i-cdn.phonearena.com/images/phones/43497-specs/LG-G-Flex.jpg,,," Android (4.4.2, 4.2.2) Optimus 3.0 UI",LG G Flex,,2048 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/LG-G-Flex_id8199,177 g
+1-Nov-13,,,,,,http://i-cdn.phonearena.com/images/phones/49992-specs/LG-F4N.jpg,,,,LG F4N,,,,http://www.phonearena.com/phones/LG-F4N_id8982,
+27-Jan-14,,,, 4.82 x 2.55 x 0.55 inches,,http://i-cdn.phonearena.com/images/phones/45303-specs/LG-Optimus-F3Q.jpg,,, Android (4.1.2),LG Optimus F3Q,,,,http://www.phonearena.com/phones/LG-Optimus-F3Q_id8243,182 g
+5-Feb-14,,2 megapixels,, 4.04 x 2.32 x 0.52 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/45291-specs/LG-Optimus-L1-II-TRI.jpg, Multi-touch,, Android (4.1),LG Optimus L1 II TRI,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-L1-II-TRI_id8371,105 g
+15-Feb-14,,,Released, 5.18 x 2.60 x 0.38 inches,,http://i-cdn.phonearena.com/images/phones/46687-specs/LG-L90.jpg,,," Android (5.0, 4.4.2)",LG L90,,,,http://www.phonearena.com/phones/LG-L90_id8416,126 g
+15-Feb-14,,5 megapixels,Released, 5.01 x 2.63 x 0.37 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/47791-specs/LG-L70.jpg, Multi-touch,, Android (4.4),LG L70,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-L70_id8417,127 g
+14-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/5484-specs/LG-PM-225.jpg,,,,LG PM-225,,,,http://www.phonearena.com/phones/LG-PM-225_id1171,
+14-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/4122-specs/LG-VX-3300.jpg,,,,LG VX-3300,,,,http://www.phonearena.com/phones/LG-VX-3300_id951,80 g
+10-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/7698-specs/LG-U8200.jpg,,,,LG U8200,,,,http://www.phonearena.com/phones/LG-U8200_id1176,125 g
+14-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/4124-specs/LG-VX-5200.jpg,,,,LG VX-5200,,,,http://www.phonearena.com/phones/LG-VX-5200_id1178,
+14-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/4120-specs/LG-VI-125.jpg,,,,LG VI-125,,,,http://www.phonearena.com/phones/LG-VI-125_id1181,
+21-Mar-05,,,,,,http://i-cdn.phonearena.com/images/phones/7721-specs/LG-UX-4750--AX-4750.jpg,,,,LG UX-4750 / AX-4750,,,,http://www.phonearena.com/phones/LG-UX-4750--AX-4750_id1193,
+22-Apr-05,,,,,,http://i-cdn.phonearena.com/images/phones/4930-specs/LG-VX-9800.jpg,,,,LG VX-9800,,,,http://www.phonearena.com/phones/LG-VX-9800_id1156,
+29-Jul-05,,,,,,http://i-cdn.phonearena.com/images/phones/4844-specs/LG-VX-4650.jpg,,,,LG VX-4650,,,,http://www.phonearena.com/phones/LG-VX-4650_id1271,
+29-Aug-05,,,,,,http://i-cdn.phonearena.com/images/phones/4791-specs/LG-AX5000--UX5000.jpg,,,,LG AX5000 / UX5000,,,,http://www.phonearena.com/phones/LG-AX5000--UX5000_id973,95 g
+1-Sep-05,,,,,,http://i-cdn.phonearena.com/images/phones/4820-specs/LG-C1500.jpg,,,,LG C1500,,,,http://www.phonearena.com/phones/LG-C1500_id1318,
+24-Oct-05,,,,,,http://i-cdn.phonearena.com/images/phones/5018-specs/LG-CE500.jpg,,,,LG CE500,,,,http://www.phonearena.com/phones/LG-CE500_id1250,
+11-Nov-05,,,,,,http://i-cdn.phonearena.com/images/phones/5091-specs/LG-AX4270.jpg,,,,LG AX4270,,,,http://www.phonearena.com/phones/LG-AX4270_id1386,
+19-Dec-05,,,, 3.82 x 1.97 x 0.67 inches,,http://i-cdn.phonearena.com/images/phones/5297-specs/LG-P7200.jpg,,,,LG P7200,,,,http://www.phonearena.com/phones/LG-P7200_id1337,105 g
+3-Dec-05,,,,,,http://i-cdn.phonearena.com/images/phones/5165-specs/LG-Migo.jpg,,,,LG Migo,,,,http://www.phonearena.com/phones/LG-Migo_id1273,
+4-Jan-06,,,,,,http://i-cdn.phonearena.com/images/phones/5385-specs/LG-F9200.jpg,,,,LG F9200,,,,http://www.phonearena.com/phones/LG-F9200_id1410,
+4-Jan-06,,,,,,http://i-cdn.phonearena.com/images/phones/5522-specs/LG-CU320.jpg,,,,LG CU320,,,,http://www.phonearena.com/phones/LG-CU320_id1343,120 g
+31-Jan-06,,,,,,http://i-cdn.phonearena.com/images/phones/8330-specs/LG-C2500.jpg,,,,LG C2500,,,,http://www.phonearena.com/phones/LG-C2500_id2124,80 g
+7-Feb-06,,,,,,http://i-cdn.phonearena.com/images/phones/8325-specs/LG-M6100.jpg,,,,LG M6100,,,,http://www.phonearena.com/phones/LG-M6100_id1468,
+7-Feb-06,,,,,,http://i-cdn.phonearena.com/images/phones/5581-specs/LG-S5200.jpg,,,,LG S5200,,,,http://www.phonearena.com/phones/LG-S5200_id1426,
+8-Feb-06,,,,,,http://i-cdn.phonearena.com/images/phones/5584-specs/LG-S5000.jpg,,,,LG S5000,,,,http://www.phonearena.com/phones/LG-S5000_id1406,
+24-Mar-06,,,,,,http://i-cdn.phonearena.com/images/phones/8318-specs/LG-U8550.jpg,,,,LG U8550,,,,http://www.phonearena.com/phones/LG-U8550_id2118,
+24-Mar-06,,,,,,http://i-cdn.phonearena.com/images/phones/8314-specs/LG-U890.jpg,,,,LG U890,,,,http://www.phonearena.com/phones/LG-U890_id2117,
+24-Mar-06,,,,,,http://i-cdn.phonearena.com/images/phones/5748-specs/LG-CG300.jpg,,,,LG CG300,,,,http://www.phonearena.com/phones/LG-CG300_id1400,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5774-specs/LG-CG225.jpg,,,,LG CG225,,,,http://www.phonearena.com/phones/LG-CG225_id1431,
+31-Mar-06,,,,,,http://i-cdn.phonearena.com/images/phones/8138-specs/LG-V9000.jpg,,,,LG V9000,,,,http://www.phonearena.com/phones/LG-V9000_id2055,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5836-specs/LG-VX-3400.jpg,,,,LG VX-3400,,,,http://www.phonearena.com/phones/LG-VX-3400_id1418,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5833-specs/LG-LX350.jpg,,,,LG LX350,,,,http://www.phonearena.com/phones/LG-LX350_id1443,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5855-specs/LG-VX5300.jpg,,,,LG VX5300,,,,http://www.phonearena.com/phones/LG-VX5300_id1555,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5857-specs/LG-VX8300.jpg,,,,LG VX8300,,,,http://www.phonearena.com/phones/LG-VX8300_id1550,
+5-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/5859-specs/LG-FUSIC.jpg,,,,LG FUSIC,,,,http://www.phonearena.com/phones/LG-FUSIC_id1420,
+28-Apr-06,,,,,,http://i-cdn.phonearena.com/images/phones/8287-specs/LG-KG225.jpg,,,,LG KG225,,,,http://www.phonearena.com/phones/LG-KG225_id2104,
+30-May-06,,,,,,http://i-cdn.phonearena.com/images/phones/8307-specs/LG-KG210.jpg,,,,LG KG210,,,,http://www.phonearena.com/phones/LG-KG210_id2113,85 g
+30-May-06,,,,,,http://i-cdn.phonearena.com/images/phones/8296-specs/LG-KG220.jpg,,,,LG KG220,,,,http://www.phonearena.com/phones/LG-KG220_id1472,
+31-May-06,,,,,,http://i-cdn.phonearena.com/images/phones/8136-specs/LG-U900.jpg,,,,LG U900,,,,http://www.phonearena.com/phones/LG-U900_id2053,
+6-Jun-06,,,, 4.10 x 1.70 x 0.60 inches,,http://i-cdn.phonearena.com/images/phones/6542-specs/LG-MG105--B2100.jpg,,,,LG MG105 / B2100,,,,http://www.phonearena.com/phones/LG-MG105--B2100_id1241,72 g
+21-Jun-06,,,Released,,,http://i-cdn.phonearena.com/images/phones/8135-specs/LG-KU730.jpg,,,,LG KU730,,,,http://www.phonearena.com/phones/LG-KU730_id2051,
+15-Feb-14,,3 megapixels,Released, 4.31 x 2.32 x 0.47 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/46343-specs/LG-L40.jpg, Multi-touch,, Android (4.4),LG L40,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-L40_id8418,114 g
+19-Feb-14,,,, 5.10 x 2.60 x 0.39 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/45479-specs/LG-G2-mini.jpg,,," Android (5.1, 4.4.2)",LG G2 mini,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-G2-mini_id8390,121 g
+24-Feb-14,,5 megapixels,, 5.01 x 2.61 x 0.39 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/46291-specs/LG-F70.jpg, Multi-touch,, Android (4.4.2),LG F70,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-F70_id8482,128 g
+25-Feb-14,,3 megapixels,, 4.28 x 2.32 x 0.47 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/52377-specs/LG-Optimus-Fuel.jpg, Multi-touch,, Android (4.4),LG Optimus Fuel,,, 480 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-Fuel_id9333,113 g
+10-Mar-14,,,,,,http://i-cdn.phonearena.com/images/phones/45932-specs/LG-A380.jpg,,,,LG A380,,,,http://www.phonearena.com/phones/LG-A380_id8504,
+27-Mar-14,,5 megapixels,, 5 x 2.63 x 0.38 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/47188-specs/LG-Optimus-Exceed-2.jpg, Multi-touch,, Android (4.4.2),LG Optimus Exceed 2,,, 400 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-Exceed-2_id8568,128 g
+1-Apr-14,,5 megapixels,, 5.01 x 2.63 x 0.38 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/46685-specs/LG-L65.jpg, Multi-touch,, Android (4.4),LG L65,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-L65_id8598,126 g
+7-Apr-14,,,,,,http://i-cdn.phonearena.com/images/phones/46492-specs/LG-Xpression-2.jpg,,,,LG Xpression 2,,,,http://www.phonearena.com/phones/LG-Xpression-2_id8579,
+15-Apr-14,,,, 4.31 x 2.32 x 0.47 inches,,http://i-cdn.phonearena.com/images/phones/46578-specs/LG-Optimus-Zone-2.jpg,,, Android (4.4.2),LG Optimus Zone 2,,,,http://www.phonearena.com/phones/LG-Optimus-Zone-2_id8588,113 g
+15-Apr-14,,,,,,http://i-cdn.phonearena.com/images/phones/46596-specs/LG-Extravert-2.jpg,,,,LG Extravert 2,,,,http://www.phonearena.com/phones/LG-Extravert-2_id8589,
+17-Apr-14,,,, 5.18 x 2.6 x 0.39 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/46679-specs/LG-Lucid-3.jpg,,8 GB, Android (4.4),LG Lucid 3,,1024 MB , 540 x 960 pixels,http://www.phonearena.com/phones/LG-Lucid-3_id8596,124 g
+29-Apr-14,,5 megapixels,Released, 5.44 x 2.93 x 0.38 inches, 5.0 inches,http://i-cdn.phonearena.com/images/phones/47187-specs/LG-L80.jpg, Multi-touch,, Android (4.4),LG L80,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-L80_id8624,138 g
+13-May-14,,8 megapixels,, 5.18 x 2.6 x 0.41 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/47026-specs/LG-Volt.jpg, Multi-touch,, Android (4.4),LG Volt,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-Volt_id8653,136 g
+19-May-14,,3 megapixels,, 4.31 x 2.32 x 0.47 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/47156-specs/LG-L35.jpg, Multi-touch,, Android (4.4.2),LG L35,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-L35_id8670,107 g
+12-Jun-14,,3 megapixels,, 7.45 x 4.48 x 0.40 inches, 7.0 inches,http://i-cdn.phonearena.com/images/phones/48146-specs/LG-G-Pad-7.0.jpg, Multi-touch,," Android (5.0, 4.4.2)",LG G Pad 7.0,,, 800 x 1280 pixels,http://www.phonearena.com/phones/LG-G-Pad-7.0_id8649,293 g
+12-Jun-14,,5 megapixels,, 8.30 x 4.89 x 0.39 inches, 8.0 inches,http://i-cdn.phonearena.com/images/phones/50165-specs/LG-G-Pad-8.0.jpg, Multi-touch,," Android (5.0, 4.4.2)",LG G Pad 8.0,,, 800 x 1280 pixels,http://www.phonearena.com/phones/LG-G-Pad-8.0_id8650,342 g
+12-Jun-14,,5 megapixels,Released, 10.27 x 6.53 x 0.35 inches, 10.1 inches,http://i-cdn.phonearena.com/images/phones/47843-specs/LG-G-Pad-10.1.jpg, Multi-touch,," Android (5.0, 4.4.2)",LG G Pad 10.1,,, 1280 x 800 pixels,http://www.phonearena.com/phones/LG-G-Pad-10.1_id8651,523 g
+30-Jun-14,,8 megapixels,, 5.99 x 3.12 x 0.36 inches, 5.7 inches,http://i-cdn.phonearena.com/images/phones/48204-specs/LG-G-Vista.jpg, Multi-touch,, Android (4.4.2),LG G Vista,,, 1280 x 720 pixels,http://www.phonearena.com/phones/LG-G-Vista_id8737,168 g
+1-Jul-14,,2 megapixels,,,,http://i-cdn.phonearena.com/images/phones/49351-specs/LG-Aspire.jpg, Yes,,,LG Aspire,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Aspire_id8931,
+17-Jul-14,,,Released,,,http://i-cdn.phonearena.com/images/phones/47942-specs/LG-G3-s.jpg,,, Android (4.4.2),LG G3 s,,,,http://www.phonearena.com/phones/LG-G3-s_id8595,
+22-Jul-14,,13 megapixels,, 5.76 x 2.94 x 0.36 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/48144-specs/LG-G3-Cat.-6.jpg, Multi-touch,, Android (4.4.2),LG G3 Cat. 6,,, 1440 x 2560 pixels,http://www.phonearena.com/phones/LG-G3-Cat.-6_id8778,154 g
+1-Aug-14,,,Released,,,http://i-cdn.phonearena.com/images/phones/48206-specs/LG-L20.jpg,,,,LG L20,,,,http://www.phonearena.com/phones/LG-L20_id8791,
+1-Aug-14,,,,,,http://i-cdn.phonearena.com/images/phones/48208-specs/LG-L30.jpg,,,,LG L30,,,,http://www.phonearena.com/phones/LG-L30_id8793,
+1-Aug-14,,3 megapixels,Released, 4.90 x 2.58 x 0.48 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/48212-specs/LG-L50.jpg, Multi-touch,4 GB, Android (4.4.2) Optimus UI,LG L50," Dual-core, 1300 MHz, ARM Cortex-A7",512 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-L50_id8794,140 g
+6-Aug-14,,,,,,http://i-cdn.phonearena.com/images/phones/48389-specs/LG-Revere-3.jpg,,,,LG Revere 3,,,,http://www.phonearena.com/phones/LG-Revere-3_id8801,
+11-Aug-14,,,,,,http://i-cdn.phonearena.com/images/phones/48456-specs/LG-FREEDOM-II.jpg,,,,LG FREEDOM II,,,,http://www.phonearena.com/phones/LG-FREEDOM-II_id8809,
+15-Aug-14,,,, 4.89 x 2.61 x 0.47 inches,,http://i-cdn.phonearena.com/images/phones/49700-specs/LG-L60.jpg,,, Android (4.4.2),LG L60,,,,http://www.phonearena.com/phones/LG-L60_id8969,119 g
+3-Oct-12,,13 megapixels,Released, 5.19 x 2.71 x 0.33 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/38424-specs/LG-Optimus-G-Sprint.jpg, Multi-touch,," Android (4.1.2, 4.0.4)",LG Optimus G Sprint," Quad-core, 1500 MHz, Krait",2048 MB , 768 x 1280 pixels,http://www.phonearena.com/phones/LG-Optimus-G-Sprint_id7100,145 g
+8-Oct-12,,5 megapixels,Released, 5.03 x 2.63 x 0.36 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/38460-specs/LG-Optimus-L9-T-Mobile.jpg, Multi-touch,4 GB," Android (4.1.2, 4.0)",LG Optimus L9 T-Mobile," Dual-core, 1000 MHz, ARM Cortex-A9",1024 MB , 540 x 960 pixels,http://www.phonearena.com/phones/LG-Optimus-L9-T-Mobile_id7526,119 g
+9-Oct-12,,5 megapixels,, 4.64 x 2.56 x 0.48 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/38463-specs/LG-Mach.jpg, Multi-touch,8 GB, Android (4.0),LG Mach," Dual-core, 1200 MHz, Krait",1024 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-Mach_id7120,168 g
+30-Oct-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/38598-specs/LG-Spectrum-2.jpg,,, Android (4.0.4),LG Spectrum 2,,,,http://www.phonearena.com/phones/LG-Spectrum-2_id7313,
+29-Nov-12,,,, 4.37 x 2.39 x 0.45 inches,,http://i-cdn.phonearena.com/images/phones/39294-specs/LG-Optimus-Regard.jpg,,, Android (4.0),LG Optimus Regard,,,,http://www.phonearena.com/phones/LG-Optimus-Regard_id7589,134 g
+21-Dec-12,,5 megapixels,, 5.08 x 2.61 x 0.37 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/39696-specs/LG-Spirit-4G.jpg, Multi-touch,, Android (4.0),LG Spirit 4G,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-Spirit-4G_id7606,122 g
+12-Feb-13,,,,,,http://i-cdn.phonearena.com/images/phones/39732-specs/LG-Optimus-G-Pro.jpg,,, Android (4.1.2),LG Optimus G Pro,,,,http://www.phonearena.com/phones/LG-Optimus-G-Pro_id7709,
+12-Feb-13,,,,,,http://i-cdn.phonearena.com/images/phones/39856-specs/LG-Optimus-L3-II.jpg,,, Android (4.1.2),LG Optimus L3 II,,,,http://www.phonearena.com/phones/LG-Optimus-L3-II_id7716,
+12-Feb-13,,,, 4.81 x 2.62 x 0.38 inches,,http://i-cdn.phonearena.com/images/phones/39726-specs/LG-Optimus-L7-II.jpg,,, Android (4.1),LG Optimus L7 II,,,,http://www.phonearena.com/phones/LG-Optimus-L7-II_id7714,
+12-Feb-13,,5 megapixels,Released, 4.63 x 2.45 x 0.36 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/39882-specs/LG-Optimus-L5-II.jpg, Multi-touch,, Android (4.1),LG Optimus L5 II,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-L5-II_id7715,100 g
+21-Feb-13,,8 megapixels,Released, 5.19 x 2.69 x 0.38 inches, 4.7 inches,http://i-cdn.phonearena.com/images/phones/39772-specs/LG-Optimus-F7.jpg, Multi-touch,, Android (4.1.2),LG Optimus F7,,, 720 x 1280 pixels,http://www.phonearena.com/phones/LG-Optimus-F7_id7732,133 g
+21-Feb-13,,,, 4.96 x 2.54 x 0.37 inches,,http://i-cdn.phonearena.com/images/phones/39769-specs/LG-Optimus-F5.jpg,,, Android (4.1.2),LG Optimus F5,,,,http://www.phonearena.com/phones/LG-Optimus-F5_id7731,131 g
+2-Apr-13,,5 megapixels,Released, 4.82 x 2.51 x 0.39 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/40579-specs/LG-Lucid-2.jpg, Multi-touch,, Android (4.1.2),LG Lucid 2," Dual-core, 1200 MHz, Krait",1024 MB , 540 x 960 pixels,http://www.phonearena.com/phones/LG-Lucid-2_id7768,129 g
+16-Apr-13,,,,,,http://i-cdn.phonearena.com/images/phones/40594-specs/LG-Revere-2.jpg,,,,LG Revere 2,,,,http://www.phonearena.com/phones/LG-Revere-2_id7811,
+16-Apr-13,,,,,,http://i-cdn.phonearena.com/images/phones/40597-specs/LG-Cosmos-3.jpg,,,,LG Cosmos 3,,,,http://www.phonearena.com/phones/LG-Cosmos-3_id7812,
+17-Apr-13,,3.2 megapixels,Released, 4.01 x 2.42 x 0.47 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/40988-specs/LG-Optimus-Zone.jpg, Multi-touch,, Android (2.3.6),LG Optimus Zone,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-Zone_id7820,110 g
+30-Apr-13,,,,,,http://i-cdn.phonearena.com/images/phones/45534-specs/LG-Optimus-L1-II-Dual.jpg,,, Android (4.1.2),LG Optimus L1 II Dual,,,,http://www.phonearena.com/phones/LG-Optimus-L1-II-Dual_id8443,
+6-Jun-13,,,,,,http://i-cdn.phonearena.com/images/phones/40916-specs/LG-Optimus-F3.jpg,,, Android (4.1.2),LG Optimus F3,,,,http://www.phonearena.com/phones/LG-Optimus-F3_id7862,
+5-Jun-13,,,Released,,,http://i-cdn.phonearena.com/images/phones/43933-specs/LG-Optimus-L9-II.jpg,,," Android (4.4.2, 4.1.2)",LG Optimus L9 II,,,,http://www.phonearena.com/phones/LG-Optimus-L9-II_id7878,
+5-Jun-13,,3 megapixels,Released, 4.43 x 2.55 x 0.47 inches, 3.8 inches,http://i-cdn.phonearena.com/images/phones/40985-specs/LG-Optimus-L4-II.jpg, Multi-touch,, Android (4.1),LG Optimus L4 II,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-L4-II_id7879,125 g
+6-Jun-13,,,Released,,,http://i-cdn.phonearena.com/images/phones/49990-specs/LG-A341.jpg,,,,LG A341,,,,http://www.phonearena.com/phones/LG-A341_id8981,
+7-Jun-13,,,Released,,,http://i-cdn.phonearena.com/images/phones/40989-specs/LG-Envoy-II.jpg,,,,LG Envoy II,,,,http://www.phonearena.com/phones/LG-Envoy-II_id7880,
+1-Jul-13,,3 megapixels,, 4.44 x 2.55 x 0.47 inches, 3.8 inches,http://i-cdn.phonearena.com/images/phones/46244-specs/LG-Optimus-L4-II-Dual.jpg, Multi-touch,, Android (4.1) LG Optimus 3.0 UI,LG Optimus L4 II Dual,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-L4-II-Dual_id8561,125 g
+18-Jul-13,,,,,,http://i-cdn.phonearena.com/images/phones/43192-specs/LG-840G.jpg,,,,LG 840G,,,,http://www.phonearena.com/phones/LG-840G_id8020,
+22-Jul-13,,,,,,http://i-cdn.phonearena.com/images/phones/42863-specs/LG-Enact.jpg,,," Android (4.4.2, 4.1.2)",LG Enact,,,,http://www.phonearena.com/phones/LG-Enact_id8023,
+25-Jul-13,,,,,,http://i-cdn.phonearena.com/images/phones/42119-specs/LG-Optimus-GJ.jpg,,, Android (4.1.2),LG Optimus GJ,,,,http://www.phonearena.com/phones/LG-Optimus-GJ_id8040,
+5-Aug-13,,,,,,http://i-cdn.phonearena.com/images/phones/42285-specs/LG-Rumor-Reflex-S.jpg,,,,LG Rumor Reflex S,,,,http://www.phonearena.com/phones/LG-Rumor-Reflex-S_id8046,
+7-Aug-13,,,Released,,,http://i-cdn.phonearena.com/images/phones/42306-specs/LG-Optimus-F6.jpg,,, Android (4.1.2),LG Optimus F6,,,,http://www.phonearena.com/phones/LG-Optimus-F6_id8049,
+9-Aug-13,,,, 4.05 x 2.33 x 0.48 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/42407-specs/LG-Optimus-L1-II.jpg,,, Android (4.1.2),LG Optimus L1 II,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-L1-II_id8054,105 g
+14-Aug-13,,,,,,http://i-cdn.phonearena.com/images/phones/42596-specs/LG-Exalt-VN360.jpg,,,,LG Exalt VN360,,,,http://www.phonearena.com/phones/LG-Exalt-VN360_id8069,
+1-Sep-13,,,Released, 8.54 x 4.98 x 0.33 inches, 8.3 inches,http://i-cdn.phonearena.com/images/phones/43891-specs/LG-G-Pad-8.3.jpg,,," Android (5.0, 4.2.2)",LG G Pad 8.3,,, 1920 x 1200 pixels,http://www.phonearena.com/phones/LG-G-Pad-8.3_id8141,338 g
+10-Oct-13,,,Released, 5.91 x 3.03 x 0.37 inches,,http://i-cdn.phonearena.com/images/phones/45016-specs/LG-G-Pro-Lite.jpg,,, Android (4.1.2) LG Optimus 3.0 UI,LG G Pro Lite,,,,http://www.phonearena.com/phones/LG-G-Pro-Lite_id8164,161 g
+10-Oct-13,,8 megapixels,Released, 5.91 x 3.03 x 0.37 inches, 5.5 inches,http://i-cdn.phonearena.com/images/phones/45012-specs/LG-G-Pro-Lite-Dual.jpg, Multi-touch,, Android (4.1.2) LG Optimus 3.0 UI,LG G Pro Lite Dual,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-G-Pro-Lite-Dual_id8324,161 g
+23-Oct-13,,,, 4.48 x 2.62 x 0.35 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/43429-specs/LG-Fireweb.jpg,,, Firefox (1.1),LG Fireweb,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Fireweb_id8192,122 g
+9-Jan-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/34460-specs/LG-Viper-4G-LTE.jpg,,," Android (4.0, 2.3)",LG Viper 4G LTE,,,,http://www.phonearena.com/phones/LG-Viper-4G-LTE_id6822,
+9-Jan-12,,5 megapixels,Released, 4.59 x 2.45 x 0.46 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/34421-specs/LG-Connect-4G.jpg, Multi-touch,2 GB, Android (2.3),LG Connect 4G," Dual-core, 1200 MHz",1024 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-Connect-4G_id6613,137 g
+9-Jan-12,,8 megapixels,Released, 5.33 x 2.71 x 0.42 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/34425-specs/LG-Spectrum.jpg, Multi-touch,4 GB," Android (4.0.4, 2.3)",LG Spectrum," Dual-core, 1500 MHz",1024 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/LG-Spectrum_id5869,142 g
+18-Jan-12,,8 megapixels,, 9.65 x 5.96 x 0.37 inches, 8.9 inches,http://i-cdn.phonearena.com/images/phones/34490-specs/LG-Optimus-Pad-LTE.jpg, Multi-touch,32 GB, Android (3.2),LG Optimus Pad LTE,,, 1280 x 720 pixels,http://www.phonearena.com/phones/LG-Optimus-Pad-LTE_id6844,497 g
+18-Jan-12,,,,,,http://i-cdn.phonearena.com/images/phones/34493-specs/LG-T565.jpg,,,,LG T565,,,,http://www.phonearena.com/phones/LG-T565_id6845,
+31-Jan-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35328-specs/LG-A290.jpg,,,,LG A290,,,,http://www.phonearena.com/phones/LG-A290_id6670,
+2-Feb-12,,3 megapixels,, 4.49 x 2.32 x 0.48 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/34762-specs/LG-Optimus-Link.jpg, Multi-touch,, Android (2.3),LG Optimus Link,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-Link_id6877,125 g
+2-Feb-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/34763-specs/LG-S367.jpg,,,,LG S367,,,,http://www.phonearena.com/phones/LG-S367_id6878,
+6-Feb-12,,,,,,http://i-cdn.phonearena.com/images/phones/48055-specs/LG-530G.jpg,,,,LG 530G,,,,http://www.phonearena.com/phones/LG-530G_id6899,
+21-Feb-12,,5 megapixels,Released, 4.94 x 2.64 x 0.34 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/35160-specs/LG-Optimus-L7.jpg, Multi-touch,, Android (4.0.3) Optimus UI,LG Optimus L7," Single core, 1000 MHz, ARM Cortex-A5",512 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-L7_id6943,122 g
+21-Feb-12,,5 megapixels,Released, 4.66 x 2.62 x 0.39 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/35168-specs/LG-Optimus-L5.jpg, Multi-touch,, Android (4.0.3) Optimus UI 3.0 UI,LG Optimus L5,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-L5_id6942,122 g
+21-Feb-12,,3.2 megapixels,, 4.04 x 2.43 x 0.46 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/35162-specs/LG-Optimus-L3.jpg, Multi-touch,, Android (2.3),LG Optimus L3,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-L3_id6941,119 g
+21-Feb-12,,,,,,http://i-cdn.phonearena.com/images/phones/37646-specs/LG-A270.jpg,,,,LG A270,,, 128 x 128 pixels,http://www.phonearena.com/phones/LG-A270_id6948,
+21-Feb-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35966-specs/LG-C195.jpg,,,,LG C195,,,,http://www.phonearena.com/phones/LG-C195_id6950,
+19-Feb-12,,8 megapixels,Released, 5.50 x 3.56 x 0.33 inches, 5.0 inches,http://i-cdn.phonearena.com/images/phones/35195-specs/LG-Optimus-Vu.jpg, Multi-touch,, Android (2.3) Optimus UI,LG Optimus Vu," Dual-core, 1500 MHz",1024 MB , 768 x 1024 pixels,http://www.phonearena.com/phones/LG-Optimus-Vu_id6983,168 g
+22-Feb-12,,,Released, 4.99 x 2.65 x 0.38 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/35031-specs/LG-Optimus-3D-MAX.jpg," Multi-touch Features: Light sensor, Proximity sensor, Scratch-resistant glass",, Android (2.3.6) Optimus 2.0 Lite UI,LG Optimus 3D MAX,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-3D-MAX_id6851,148 g
+1-Mar-12,,2 megapixels,,,,http://i-cdn.phonearena.com/images/phones/35221-specs/LG-T385-Wi-Fi.jpg, Multi-touch,, Brew Mobile Platform (Brew MP) Display Physical ,LG T385 Wi-Fi,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-T385-Wi-Fi_id6994,
+9-Mar-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35322-specs/LG-Rumor-Reflex.jpg,,,,LG Rumor Reflex,,,,http://www.phonearena.com/phones/LG-Rumor-Reflex_id7008,
+22-Mar-12,,5 megapixels,, 4.48 x 2.47 x 0.39 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/35968-specs/LG-Optimus-M.jpg, Multi-touch,, Android (2.3),LG Optimus M+,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-M_id7017,120 g
+27-Mar-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35453-specs/LG-Lucid.jpg,,," Android (4.0.4, 2.3)",LG Lucid,,,,http://www.phonearena.com/phones/LG-Lucid_id6956,
+11-Apr-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35959-specs/LG-A340.jpg,,,,LG A340,,,,http://www.phonearena.com/phones/LG-A340_id6836,
+12-Apr-12,,,,,,http://i-cdn.phonearena.com/images/phones/35759-specs/LG-221C.jpg,,,,LG 221C,,,,http://www.phonearena.com/phones/LG-221C_id7034,
+17-Apr-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35762-specs/LG-Optimus-Elite.jpg,,, Android (2.3.7),LG Optimus Elite,,,,http://www.phonearena.com/phones/LG-Optimus-Elite_id6998,
+20-Apr-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/35958-specs/LG-T375.jpg,,,,LG T375,,,,http://www.phonearena.com/phones/LG-T375_id7041,
+4-May-12,,,,,,http://i-cdn.phonearena.com/images/phones/36889-specs/LG-C205.jpg,,,,LG C205,,,,http://www.phonearena.com/phones/LG-C205_id7084,
+21-Feb-12,,3.2 megapixels,, 4.04 x 2.43 x 0.47 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/36890-specs/LG-Optimus-L3-Dual.jpg, Multi-touch,, Android (2.3),LG Optimus L3 Dual,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-L3-Dual_id7231,119 g
+29-May-12,,,,,,http://i-cdn.phonearena.com/images/phones/36463-specs/LG-Optimus-LTE-II.jpg,,, Android (4.0) Display Physical ,LG Optimus LTE II,,,,http://www.phonearena.com/phones/LG-Optimus-LTE-II_id7124,
+31-Jul-12,,5 megapixels,Released, 4.37 x 2.39 x 0.45 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/37691-specs/LG-Motion-4G.jpg, Multi-touch,5 GB, Android (4.0),LG Motion 4G," Dual-core, 1200 MHz",1024 MB , 320 x 480 pixels,http://www.phonearena.com/phones/LG-Motion-4G_id7384,133 g
+10-Sep-12,,,Released,,,http://i-cdn.phonearena.com/images/phones/37979-specs/LG-Escape.jpg,,," Android (4.1, 4.0) Optimus UI",LG Escape,,,,http://www.phonearena.com/phones/LG-Escape_id7414,
+16-Aug-12,,,, 3.8 x 1.9 x 0.7 inches,,http://i-cdn.phonearena.com/images/phones/37641-specs/LG-235C.jpg,,,,LG 235C,,,,http://www.phonearena.com/phones/LG-235C_id7421,98 g
+29-Aug-12,,,,,,http://i-cdn.phonearena.com/images/phones/37741-specs/LG-Optimus-L9.jpg,,," Android (4.1.2, 4.0.4)",LG Optimus L9,,, 540 x 960 pixels,http://www.phonearena.com/phones/LG-Optimus-L9_id7459,
+4-Sep-12,,8 megapixels,Released, 5.50 x 3.56 x 0.33 inches, 5.0 inches,http://i-cdn.phonearena.com/images/phones/37861-specs/LG-Intuition.jpg, Multi-touch,32 GB, Android (4.0.4) Optimus UI,LG Intuition," Dual-core, 1500 MHz",1024 MB , 768 x 1024 pixels,http://www.phonearena.com/phones/LG-Intuition_id7360,168 g
+11-Sep-12,,5 megapixels,, 4.92 x 2.64 x 0.34 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/37984-specs/LG-Splendor.jpg, Multi-touch,2 GB, Android (4.0),LG Splendor," Single core, 1000 MHz, Scorpion",768 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-Splendor_id7137,120 g
+28-Aug-12,,,,,,http://i-cdn.phonearena.com/images/phones/37997-specs/LG-Optimus-G.jpg,,," Android (4.4.2, 4.1.2, 4.0.4)",LG Optimus G,,,,http://www.phonearena.com/phones/LG-Optimus-G_id7458,
+27-Sep-12,,,, 5.20 x 3.37 x 0.37 inches,,http://i-cdn.phonearena.com/images/phones/38279-specs/LG-Optimus-Vu-II.jpg,,, Android (4.0) Optimus UI,LG Optimus Vu II,,,,http://www.phonearena.com/phones/LG-Optimus-Vu-II_id7513,159 g
+9-May-11,,,,,,http://i-cdn.phonearena.com/images/phones/33934-specs/LG-T510.jpg,,,,LG T510,,,,http://www.phonearena.com/phones/LG-T510_id5509,
+11-May-11,,,,,,http://i-cdn.phonearena.com/images/phones/28733-specs/LG-C330.jpg,,,,LG C330,,,,http://www.phonearena.com/phones/LG-C330_id5184,
+16-May-11,,,,,,http://i-cdn.phonearena.com/images/phones/28723-specs/LG-102.jpg,,,,LG 102,,,,http://www.phonearena.com/phones/LG-102_id5522,70 g
+16-May-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/28729-specs/LG-T500.jpg,,,,LG T500,,,,http://www.phonearena.com/phones/LG-T500_id5245,
+16-Oct-11,,,, 4.80 x 2.52 x 0.63 inches,,http://i-cdn.phonearena.com/images/phones/32167-specs/LG-Doubleplay.jpg,,, Android (2.3.4),LG Doubleplay,,,,http://www.phonearena.com/phones/LG-Doubleplay_id5545,192 g
+18-May-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/28859-specs/LG-A200.jpg,,,,LG A200,,,,http://www.phonearena.com/phones/LG-A200_id5556,
+20-May-11,,,,,,http://i-cdn.phonearena.com/images/phones/29173-specs/LG-X330.jpg,,,,LG X330,,,,http://www.phonearena.com/phones/LG-X330_id5615,
+25-May-11,,5 megapixels,Released, 4.72 x 2.43 x 0.66 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/28939-specs/LG-Genesis.jpg,,, Android (2.2),LG Genesis," Single core, 1000 MHz",,,http://www.phonearena.com/phones/LG-Genesis_id5574,170 g
+23-Sep-10,,,,,,http://i-cdn.phonearena.com/images/phones/22703-specs/LG-GU200A.jpg,,,,LG GU200A,,,,http://www.phonearena.com/phones/LG-GU200A_id4555,
+23-Sep-10,,,,,,http://i-cdn.phonearena.com/images/phones/22708-specs/LG-GU200.jpg,,,,LG GU200,,,,http://www.phonearena.com/phones/LG-GU200_id4960,
+,,,,,,http://i-cdn.phonearena.com/images/phones/29009-specs/LG-E300.jpg,,,,LG E300,,,,http://www.phonearena.com/phones/LG-E300_id5248,
+9-Jun-11,,,,,,http://i-cdn.phonearena.com/images/phones/33915-specs/LG-C365.jpg,,,,LG C365,,,,http://www.phonearena.com/phones/LG-C365_id6709,
+27-Sep-10,,,,,,http://i-cdn.phonearena.com/images/phones/23605-specs/LG-C100.jpg,,,,LG C100,,,,http://www.phonearena.com/phones/LG-C100_id4921,
+5-Oct-10,,,,,,http://i-cdn.phonearena.com/images/phones/22816-specs/LG-E900h.jpg,,,,LG E900h,,,,http://www.phonearena.com/phones/LG-E900h_id4954,
+6-Oct-10,,3.2 megapixels,Released, 4.47 x 2.32 x 0.52 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/23444-specs/LG-Optimus-S.jpg, Multi-touch,," Android (2.3, 2.2)",LG Optimus S,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-S_id4963,115 g
+7-Oct-10,,,Released, 4.47 x 2.32 x 0.52 inches,,http://i-cdn.phonearena.com/images/phones/22736-specs/LG-Optimus-T.jpg,,, Android (2.2),LG Optimus T,,,,http://www.phonearena.com/phones/LG-Optimus-T_id4965,129 g
+11-Oct-10,,,Released, 4.92 x 2.35 x 0.45 inches, 3.8 inches,http://i-cdn.phonearena.com/images/phones/22811-specs/LG-Optimus-7.jpg,,, Windows Phone 7.5 Mango,LG Optimus 7,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-7_id4879,157 g
+11-Oct-10,,5 megapixels,Released, 4.70 x 2.34 x 0.60 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/34535-specs/LG-Quantum.jpg, Multi-touch,, Windows Phone 7.5 Mango,LG Quantum,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Quantum_id4854,176 g
+11-Oct-10,,,, 4.70 x 2.34 x 0.60 inches,,http://i-cdn.phonearena.com/images/phones/22842-specs/LG-Optimus-7Q.jpg,,, Windows Phone 7.5 Mango,LG Optimus 7Q,,,,http://www.phonearena.com/phones/LG-Optimus-7Q_id4968,185 g
+27-Oct-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/23141-specs/LG-Octane.jpg,,,,LG Octane,,,,http://www.phonearena.com/phones/LG-Octane_id4688,
+3-Nov-10,,,,,,http://i-cdn.phonearena.com/images/phones/23421-specs/LG-A310.jpg,,,,LG A310,,,,http://www.phonearena.com/phones/LG-A310_id5003,
+23-Nov-10,,,,,,http://i-cdn.phonearena.com/images/phones/23446-specs/LG-P520.jpg,,,,LG P520,,,,http://www.phonearena.com/phones/LG-P520_id5012,
+9-Jun-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/33913-specs/LG-C360.jpg,,,,LG C360,,,,http://www.phonearena.com/phones/LG-C360_id5631,
+9-Jun-11,,,,,,http://i-cdn.phonearena.com/images/phones/33830-specs/LG-A225.jpg,,,,LG A225,,,,http://www.phonearena.com/phones/LG-A225_id5632,
+16-Jun-11,,,,,,http://i-cdn.phonearena.com/images/phones/29380-specs/LG-EGO-Wi-Fi.jpg,,,,LG EGO Wi-Fi,,,,http://www.phonearena.com/phones/LG-EGO-Wi-Fi_id5644,
+12-Jul-11,,3 megapixels,Released, 4.70 x 2.35 x 0.51 inches, 2.8 inches,http://i-cdn.phonearena.com/images/phones/29748-specs/LG-Optimus-Pro.jpg, Multi-touch,, Android (2.3.4),LG Optimus Pro,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-Pro_id5671,129 g
+30-Sep-11,,3.2 megapixels,Released, 4.53 x 2.32 x 0.58 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/31968-specs/LG-Optimus-Slider.jpg, Multi-touch,, Android (2.3),LG Optimus Slider,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-Slider_id5701,156 g
+12-Jul-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/29704-specs/LG-Cosmos-2.jpg,,,,LG Cosmos 2,,,,http://www.phonearena.com/phones/LG-Cosmos-2_id5688,
+13-Jul-11,,3 megapixels,Released, 4.47 x 2.32 x 0.48 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/29747-specs/LG-Optimus-Net.jpg, Multi-touch,," Android (2.3.4, 2.3.3)",LG Optimus Net,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-Net_id5706,122 g
+27-Jul-11,,,,,,http://i-cdn.phonearena.com/images/phones/37527-specs/LG-430G.jpg,,,,LG 430G,,,,http://www.phonearena.com/phones/LG-430G_id5773,
+5-Aug-11,,,,,,http://i-cdn.phonearena.com/images/phones/30368-specs/LG-Envoy.jpg,,,,LG Envoy,,,,http://www.phonearena.com/phones/LG-Envoy_id5877,
+11-Aug-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/30541-specs/LG-Revere.jpg,,,,LG Revere,,,,http://www.phonearena.com/phones/LG-Revere_id5687,
+9-Nov-10,,,,,,http://i-cdn.phonearena.com/images/phones/23552-specs/LG-C320.jpg,,,,LG C320,,,,http://www.phonearena.com/phones/LG-C320_id5013,
+19-Aug-11,,,Released, 4.24 x 2.13 x 0.66 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/35982-specs/LG-Xpression-C395.jpg,,,,LG Xpression C395,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-Xpression-C395_id6053,130 g
+22-Aug-11,,,, 4.82 x 2.46 x 0.38 inches,,http://i-cdn.phonearena.com/images/phones/30649-specs/LG-Optimus-Sol.jpg,,, Android (2.3.4),LG Optimus Sol,,,,http://www.phonearena.com/phones/LG-Optimus-Sol_id5759,107 g
+14-Sep-11,,,Released, 4.80 x 2.52 x 0.36 inches,,http://i-cdn.phonearena.com/images/phones/31396-specs/LG-Marquee.jpg,,, Android (2.3),LG Marquee,,,,http://www.phonearena.com/phones/LG-Marquee_id5693,112 g
+15-Sep-11,,5 megapixels,, 4.46 x 2.39 x 0.45 inches, 3.5 inches,http://i-cdn.phonearena.com/images/phones/31444-specs/LG-Optimus-Hub.jpg, Multi-touch,, Android (2.3),LG Optimus Hub,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-Hub_id5760,124 g
+21-Sep-11,,3.2 megapixels,, 4.50 x 2.30 x 0.58 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/31565-specs/LG-Enlighten.jpg, Multi-touch,, Android (2.3.4),LG Enlighten,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Enlighten_id5883,157 g
+28-Sep-11,,,Released, 5.03 x 2.63 x 0.53 inches,,http://i-cdn.phonearena.com/images/phones/31688-specs/LG-Esteem.jpg,,," Android (2.3.4, 2.3)",LG Esteem,,,,http://www.phonearena.com/phones/LG-Esteem_id5702,172 g
+29-Sep-11,,,,,,http://i-cdn.phonearena.com/images/phones/31785-specs/LG-Beacon.jpg,,,,LG Beacon,,,,http://www.phonearena.com/phones/LG-Beacon_id6444,
+4-Oct-11,,,, 5.27 x 2.67 x 0.41 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/32986-specs/LG-Optimus-LTE.jpg,,, Android (2.3),LG Optimus LTE,,, 720 x 1280 pixels,http://www.phonearena.com/phones/LG-Optimus-LTE_id6526,135 g
+11-Oct-10,,,Released, 4.84 x 2.42 x 0.45 inches, 3.8 inches,http://i-cdn.phonearena.com/images/phones/33513-specs/LG-Jil-Sander-Mobile.jpg,,, Windows Phone 7.5 Mango,LG Jil Sander Mobile,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Jil-Sander-Mobile_id6608,157 g
+15-Nov-11,,,,,,http://i-cdn.phonearena.com/images/phones/33267-specs/LG-Extravert.jpg,,,,LG Extravert,,,,http://www.phonearena.com/phones/LG-Extravert_id6598,
+15-Nov-10,,,Released, 4.47 x 2.32 x 0.52 inches,,http://i-cdn.phonearena.com/images/phones/23565-specs/LG-Vortex.jpg,,, Android (2.2),LG Vortex,,,,http://www.phonearena.com/phones/LG-Vortex_id4912,126 g
+15-Nov-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/23568-specs/LG-Cosmos-Touch.jpg,,,,LG Cosmos Touch,,,,http://www.phonearena.com/phones/LG-Cosmos-Touch_id4844,
+4-Oct-10,,3 megapixels,Released, 4.56 x 2.22 x 0.62 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/23584-specs/LG-Apex.jpg, Multi-touch,, Android (2.1),LG Apex,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Apex_id5019,158 g
+22-Nov-10,,,Released, 4.57 x 2.22 x 0.62 inches,,http://i-cdn.phonearena.com/images/phones/34531-specs/LG-Optimus-M.jpg,,, Android (2.2),LG Optimus M,,,,http://www.phonearena.com/phones/LG-Optimus-M_id5026,153 g
+25-Nov-10,,3.2 megapixels,, 4.56 x 2.22 x 0.62 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/23604-specs/LG-C710.jpg, Multi-touch,, Android (2.1),LG C710,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-C710_id5081,158 g
+13-Dec-10,,,,,,http://i-cdn.phonearena.com/images/phones/23653-specs/LG-C305.jpg,,,,LG C305,,,,http://www.phonearena.com/phones/LG-C305_id5098,
+15-Dec-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/23658-specs/LG-Select.jpg,,,,LG Select,,,,http://www.phonearena.com/phones/LG-Select_id4693,
+16-Dec-10,,8 megapixels,Released, 4.88 x 2.49 x 0.43 inches, 4.0 inches,http://i-cdn.phonearena.com/images/phones/23660-specs/LG-Optimus-2X.jpg, Multi-touch,8 GB," Android (4.0, 2.2)",LG Optimus 2X," Dual-core, 1000 MHz, ARM Cortex-A9",512 MB , 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-2X_id5021,139 g
+27-Dec-10,,,, 4.29 x 2.32 x 0.64 inches,,http://i-cdn.phonearena.com/images/phones/29427-specs/LG-Optimus-Chat.jpg,,, Android (2.2),LG Optimus Chat,,,,http://www.phonearena.com/phones/LG-Optimus-Chat_id5105,134 g
+5-Jan-11,,,Released, 4.80 x 2.52 x 0.36 inches,,http://i-cdn.phonearena.com/images/phones/25140-specs/LG-Optimus-Black.jpg,,," Android (2.3, 2.2)",LG Optimus Black,,,,http://www.phonearena.com/phones/LG-Optimus-Black_id5102,109 g
+25-Nov-11,,,, 4.77 x 2.50 x 0.51 inches,,http://i-cdn.phonearena.com/images/phones/34294-specs/LG-Eclypse.jpg,,, Android (2.3),LG Eclypse,,,,http://www.phonearena.com/phones/LG-Eclypse_id6614,168 g
+6-Jan-11,,,Released, 5.03 x 2.63 x 0.52 inches,,http://i-cdn.phonearena.com/images/phones/28991-specs/LG-Revolution.jpg,,," Android (2.3, 2.2)",LG Revolution,,,,http://www.phonearena.com/phones/LG-Revolution_id4981,172 g
+24-Jan-11,,3 megapixels,, 4.47 x 2.32 x 0.52 inches, 2.8 inches,http://i-cdn.phonearena.com/images/phones/26257-specs/LG-Optimus-Me-P350.jpg, Multi-touch,, Android (2.2),LG Optimus Me P350,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Optimus-Me-P350_id5104,130 g
+14-Feb-11,,,,,,http://i-cdn.phonearena.com/images/phones/30717-specs/LG-A175.jpg,,,,LG A175,,,,http://www.phonearena.com/phones/LG-A175_id5216,
+14-Feb-11,,,Released, 5.07 x 2.68 x 0.47 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/26938-specs/LG-Optimus-3D.jpg," Multi-touch Features: Light sensor, Proximity sensor, Scratch-resistant glass (Corning Gorilla Glass)",," Android (2.3, 2.2)",LG Optimus 3D,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Optimus-3D_id5172,168 g
+14-Feb-11,,,Released, 9.57 x 5.87 x 0.47 inches, 8.9 inches,http://i-cdn.phonearena.com/images/phones/26943-specs/LG-Optimus-Pad.jpg,,, Android (3.0),LG Optimus Pad,,,,http://www.phonearena.com/phones/LG-Optimus-Pad_id5223,620 g
+18-Mar-11,,,,,,http://i-cdn.phonearena.com/images/phones/27802-specs/LG-Saber.jpg,,,,LG Saber,,,,http://www.phonearena.com/phones/LG-Saber_id5031,
+21-Mar-11,,,Released, 5.07 x 2.68 x 0.47 inches, 4.3 inches,http://i-cdn.phonearena.com/images/phones/27609-specs/LG-Thrill-4G.jpg," Multi-touch Features: Light sensor, Proximity sensor, Scratch-resistant glass (Corning Gorilla Glass)",," Android (2.3, 2.2)",LG Thrill 4G,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Thrill-4G_id5327,168 g
+17-Mar-11,,,,,,http://i-cdn.phonearena.com/images/phones/27708-specs/LG-T315i.jpg,,,,LG T315i,,,,http://www.phonearena.com/phones/LG-T315i_id5340,
+1-Apr-11,,,,,,http://i-cdn.phonearena.com/images/phones/33990-specs/LG-A190.jpg,,,,LG A190,,,,http://www.phonearena.com/phones/LG-A190_id5369,
+28-Nov-11,,8 megapixels,Released, 5.27 x 2.67 x 0.41 inches, 4.5 inches,http://i-cdn.phonearena.com/images/phones/33546-specs/LG-Nitro-HD.jpg, Multi-touch,, Android (2.3.5),LG Nitro HD," Dual-core, 1500 MHz",1024 MB , 720 x 1280 pixels,http://www.phonearena.com/phones/LG-Nitro-HD_id5558,128 g
+8-Dec-11,,3.2 megapixels,, 4.44 x 2.32 x 0.47 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/34332-specs/LG-Optimus-2.jpg, Multi-touch,, Android (2.3),LG Optimus 2,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-2_id6717,125 g
+14-Dec-11,,,Released, 5.02 x 2.72 x 0.33 inches,,http://i-cdn.phonearena.com/images/phones/34238-specs/LG-Prada-3.0.jpg,,," Android (4.0, 2.3.7, 2.3)",LG Prada 3.0,,,,http://www.phonearena.com/phones/LG-Prada-3.0_id5758,138 g
+4-Apr-11,,,,,,http://i-cdn.phonearena.com/images/phones/33988-specs/LG-A250.jpg,,,,LG A250,,,,http://www.phonearena.com/phones/LG-A250_id5378,
+4-Apr-11,,,Released,,,http://i-cdn.phonearena.com/images/phones/30636-specs/LG-A230.jpg,,,,LG A230,,,,http://www.phonearena.com/phones/LG-A230_id5379,
+12-Apr-11,,3.2 megapixels,, 4.47 x 2.32 x 0.53 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/28572-specs/LG-Phoenix.jpg, Multi-touch,, Android (2.2),LG Phoenix,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Phoenix_id5490,91 g
+12-Apr-11,,,, 4.47 x 2.32 x 0.53 inches,,http://i-cdn.phonearena.com/images/phones/28069-specs/LG-Thrive.jpg,,, Android (2.2),LG Thrive,,,,http://www.phonearena.com/phones/LG-Thrive_id5406,130 g
+26-Mar-10,,,,,,http://i-cdn.phonearena.com/images/phones/20625-specs/LG-KP550-Rip-Curl.jpg,,,,LG KP550 Rip Curl,,,,http://www.phonearena.com/phones/LG-KP550-Rip-Curl_id4530,
+22-Mar-10,,,,,,http://i-cdn.phonearena.com/images/phones/20627-specs/LG-GS106.jpg,,,,LG GS106,,,,http://www.phonearena.com/phones/LG-GS106_id4536,
+22-Mar-10,,,,,,http://i-cdn.phonearena.com/images/phones/20628-specs/LG-GS107.jpg,,,,LG GS107,,,,http://www.phonearena.com/phones/LG-GS107_id4537,
+30-Mar-10,,2 megapixels,Released,, 2.4 inches,http://i-cdn.phonearena.com/images/phones/20631-specs/LG-Wine-II.jpg,,,,LG Wine II,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Wine-II_id4228,102 g
+1-Apr-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20974-specs/LG-KM570.jpg,,,,LG KM570,,,,http://www.phonearena.com/phones/LG-KM570_id4493,
+6-Apr-10,,,,,,http://i-cdn.phonearena.com/images/phones/20795-specs/LG-GB280.jpg,,,,LG GB280,,,,http://www.phonearena.com/phones/LG-GB280_id4198,
+12-May-10,,,Released, 4.56 x 2.22 x 0.62 inches,,http://i-cdn.phonearena.com/images/phones/21078-specs/LG-Ally.jpg,,," Android (2.2, 2.1)",LG Ally,,,,http://www.phonearena.com/phones/LG-Ally_id4498,158 g
+15-Apr-10,,,,,,http://i-cdn.phonearena.com/images/phones/20783-specs/LG-GT540G.jpg,,, Android Display ,LG GT540G,,,,http://www.phonearena.com/phones/LG-GT540G_id4576,
+27-Apr-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20955-specs/LG-420G.jpg,,,,LG 420G,,,,http://www.phonearena.com/phones/LG-420G_id4563,
+4-May-10,,,,,,http://i-cdn.phonearena.com/images/phones/21066-specs/LG-GM600.jpg,,,,LG GM600,,,,http://www.phonearena.com/phones/LG-GM600_id4466,
+10-May-10,,,,,,http://i-cdn.phonearena.com/images/phones/21046-specs/LG-GS107A.jpg,,,,LG GS107A,,,,http://www.phonearena.com/phones/LG-GS107A_id4631,
+26-May-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21160-specs/LG-GX300.jpg,,,,LG GX300,,,,http://www.phonearena.com/phones/LG-GX300_id4661,
+26-May-10,,,,,,http://i-cdn.phonearena.com/images/phones/21162-specs/LG-GD550.jpg,,,,LG GD550,,,,http://www.phonearena.com/phones/LG-GD550_id4488,
+26-May-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21281-specs/LG-Viewty-Snap.jpg,,,,LG Viewty Snap,,,,http://www.phonearena.com/phones/LG-Viewty-Snap_id4570,
+2-Jun-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21236-specs/LG-GS170.jpg,,,,LG GS170,,,,http://www.phonearena.com/phones/LG-GS170_id4611,
+2-Jun-10,,,Released, 4.27 x 2.03 x 0.57 inches, 2.8 inches,http://i-cdn.phonearena.com/images/phones/21239-specs/LG-dLite.jpg,,,,LG dLite,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-dLite_id4677,99 g
+9-Jun-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21331-specs/LG-GU292.jpg,,,,LG GU292,,,,http://www.phonearena.com/phones/LG-GU292_id4701,
+23-Jun-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21583-specs/LG-Prime.jpg,,,,LG Prime,,,,http://www.phonearena.com/phones/LG-Prime_id4746,
+21-Jul-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21706-specs/LG-101.jpg,,,,LG 101,,,,http://www.phonearena.com/phones/LG-101_id3985,
+28-Jul-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21714-specs/LG-GU295.jpg,,,,LG GU295,,,,http://www.phonearena.com/phones/LG-GU295_id4780,
+30-Jul-10,,,,,,http://i-cdn.phonearena.com/images/phones/22246-specs/LG-KS365.jpg,,,,LG KS365,,,,http://www.phonearena.com/phones/LG-KS365_id4504,
+6-Aug-10,,,,,,http://i-cdn.phonearena.com/images/phones/21909-specs/LG-GB125R.jpg,,,,LG GB125R,,,,http://www.phonearena.com/phones/LG-GB125R_id4826,
+2-Aug-10,,,,,,http://i-cdn.phonearena.com/images/phones/22040-specs/LG-Cookie-Style.jpg,,,,LG Cookie Style,,,,http://www.phonearena.com/phones/LG-Cookie-Style_id4754,
+2-Aug-10,,,,,,http://i-cdn.phonearena.com/images/phones/22041-specs/LG-Cookie-3G.jpg,,,,LG Cookie 3G,,,,http://www.phonearena.com/phones/LG-Cookie-3G_id4758,
+2-Aug-10,,,,,,http://i-cdn.phonearena.com/images/phones/22039-specs/LG-Cookie-Lite.jpg,,,,LG Cookie Lite,,,,http://www.phonearena.com/phones/LG-Cookie-Lite_id4768,
+17-Aug-10,,,,,,http://i-cdn.phonearena.com/images/phones/22042-specs/LG-Town-C300.jpg,,,,LG Town C300,,,,http://www.phonearena.com/phones/LG-Town-C300_id4841,
+2-Sep-10,,,Released, 4.17 x 2.10 x 0.47 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/22337-specs/LG-Encore.jpg,,,,LG Encore,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-Encore_id4876,105 g
+19-Nov-09,,,,,,http://i-cdn.phonearena.com/images/phones/18823-specs/LG-GB115.jpg,,,,LG GB115,,,,http://www.phonearena.com/phones/LG-GB115_id4246,
+26-Nov-09,,,,,,http://i-cdn.phonearena.com/images/phones/19408-specs/LG-GB160.jpg,,,,LG GB160,,,,http://www.phonearena.com/phones/LG-GB160_id4317,
+26-Nov-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19407-specs/LG-GB170.jpg,,,,LG GB170,,,,http://www.phonearena.com/phones/LG-GB170_id4316,
+27-Nov-09,,,,,,http://i-cdn.phonearena.com/images/phones/19410-specs/LG-Cookie-KP501.jpg,,,,LG Cookie KP501,,,,http://www.phonearena.com/phones/LG-Cookie-KP501_id4320,
+27-Nov-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19409-specs/LG-GS190.jpg,,,,LG GS190,,,,http://www.phonearena.com/phones/LG-GS190_id4319,
+8-Dec-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/20706-specs/LG-GB255G.jpg,,,,LG GB255G,,,,http://www.phonearena.com/phones/LG-GB255G_id4550,
+14-Sep-10,,5 megapixels,, 4.43 x 2.28 x 0.51 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/22433-specs/LG-Optimus-Chic.jpg, Multi-touch,, Android (2.2),LG Optimus Chic,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-Optimus-Chic_id4887,132 g
+17-Sep-10,,,,,,http://i-cdn.phonearena.com/images/phones/26209-specs/LG-GU297.jpg,,,,LG GU297,,,,http://www.phonearena.com/phones/LG-GU297_id4896,
+15-Dec-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19372-specs/LG-GB190.jpg,,,,LG GB190,,,,http://www.phonearena.com/phones/LG-GB190_id4312,
+4-Jan-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19453-specs/LG-Lollipop-GD580.jpg,,,,LG Lollipop GD580,,,,http://www.phonearena.com/phones/LG-Lollipop-GD580_id4333,
+5-Jan-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19570-specs/LG-Lotus-Elite.jpg,,,,LG Lotus Elite,,,,http://www.phonearena.com/phones/LG-Lotus-Elite_id3980,
+7-Jan-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19574-specs/LG-Rumor-Touch.jpg,,,,LG Rumor Touch,,,,http://www.phonearena.com/phones/LG-Rumor-Touch_id4349,
+8-Jan-10,,,,,,http://i-cdn.phonearena.com/images/phones/20708-specs/LG-Shine-Touch.jpg,,,,LG Shine Touch,,,,http://www.phonearena.com/phones/LG-Shine-Touch_id4551,
+7-Jan-10,,,Released, 4.29 x 2.15 x 0.50 inches,,http://i-cdn.phonearena.com/images/phones/19579-specs/LG-Optimus.jpg,,," Android (2.1, 1.6)",LG Optimus,,,,http://www.phonearena.com/phones/LG-Optimus_id4351,116 g
+8-Jan-10,,,,,,http://i-cdn.phonearena.com/images/phones/19581-specs/LG-GW990.jpg,,,,LG GW990,,,,http://www.phonearena.com/phones/LG-GW990_id4352,
+9-Feb-10,,5 megapixels,Released, 4.02 x 1.86 x 0.39 inches, 3.2 inches,http://i-cdn.phonearena.com/images/phones/19761-specs/LG-Mini.jpg, Multi-touch,,,LG Mini,,, 480 x 854 pixels,http://www.phonearena.com/phones/LG-Mini_id4353,102 g
+12-Jan-10,,,,,,http://i-cdn.phonearena.com/images/phones/26546-specs/LG-231C.jpg,,,,LG 231C,,,,http://www.phonearena.com/phones/LG-231C_id4358,83 g
+15-Jan-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20791-specs/LG-GB270.jpg,,,,LG GB270,,,,http://www.phonearena.com/phones/LG-GB270_id4578,
+18-Jan-10,,3 megapixels,Released,,,http://i-cdn.phonearena.com/images/phones/19632-specs/LG-KM555.jpg, Yes,,,LG KM555,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-KM555_id4366,
+4-Feb-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19748-specs/LG-Accolade.jpg,,,,LG Accolade,,,,http://www.phonearena.com/phones/LG-Accolade_id4405,
+4-Feb-10,,,,,,http://i-cdn.phonearena.com/images/phones/21975-specs/LG-Clout.jpg,,,,LG Clout,,,,http://www.phonearena.com/phones/LG-Clout_id4406,
+9-Feb-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19763-specs/LG-Town-GT350.jpg,,,,LG Town GT350,,,,http://www.phonearena.com/phones/LG-Town-GT350_id4417,
+9-Feb-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/19772-specs/LG-GX200.jpg,,,,LG GX200,,,,http://www.phonearena.com/phones/LG-GX200_id4314,
+10-Feb-10,,,,,,http://i-cdn.phonearena.com/images/phones/19768-specs/LG-Cookie-Plus.jpg,,,,LG Cookie Plus,,,,http://www.phonearena.com/phones/LG-Cookie-Plus_id4421,
+14-Sep-09,,,, 4.29 x 2.15 x 0.63 inches,,http://i-cdn.phonearena.com/images/phones/20404-specs/LG-EVE.jpg,,," Android (2.2, 1.5)",LG EVE,,,,http://www.phonearena.com/phones/LG-EVE_id4478,139 g
+26-Feb-10,,,, 4.45 x 2.17 x 0.63 inches,,http://i-cdn.phonearena.com/images/phones/20958-specs/LG-IQ-GW825.jpg,,, Windows Mobile Professional (6.5),LG IQ GW825,,,,http://www.phonearena.com/phones/LG-IQ-GW825_id4614,
+1-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20433-specs/LG-KF305.jpg,,,,LG KF305,,,,http://www.phonearena.com/phones/LG-KF305_id4484,
+4-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/21655-specs/LG-Viewty-GT.jpg,,,,LG Viewty GT,,,,http://www.phonearena.com/phones/LG-Viewty-GT_id4487,
+4-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20480-specs/LG-Cookie-Fresh.jpg,,,,LG Cookie Fresh,,,,http://www.phonearena.com/phones/LG-Cookie-Fresh_id4497,
+9-Mar-10,,,,,,http://i-cdn.phonearena.com/images/phones/20481-specs/LG-GB160A.jpg,,,,LG GB160A,,,,http://www.phonearena.com/phones/LG-GB160A_id4499,
+9-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20482-specs/LG-GD350.jpg,,,,LG GD350,,,,http://www.phonearena.com/phones/LG-GD350_id4214,
+9-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20486-specs/LG-KP108.jpg,,,,LG KP108,,,,http://www.phonearena.com/phones/LG-KP108_id4500,
+15-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20584-specs/LG-Cosmos.jpg,,,,LG Cosmos,,,,http://www.phonearena.com/phones/LG-Cosmos_id4429,
+24-May-10,,,Released, 4.53 x 2.20 x 0.65 inches,,http://i-cdn.phonearena.com/images/phones/21141-specs/LG-Fathom.jpg,,, Windows Mobile Professional (6.5.3),LG Fathom,,,,http://www.phonearena.com/phones/LG-Fathom_id4369,152 g
+6-Apr-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20549-specs/LG-GX500.jpg,,,,LG GX500,,,,http://www.phonearena.com/phones/LG-GX500_id4517,
+22-Mar-10,,,Released,,,http://i-cdn.phonearena.com/images/phones/20552-specs/LG-Remarq.jpg,,,,LG Remarq,,,,http://www.phonearena.com/phones/LG-Remarq_id4294,108 g
+26-Mar-10,,,,,,http://i-cdn.phonearena.com/images/phones/20797-specs/LG-GS155A.jpg,,,,LG GS155A,,,,http://www.phonearena.com/phones/LG-GS155A_id4396,
+1-Jul-09,,,,,,http://i-cdn.phonearena.com/images/phones/21068-specs/LG-Scarlet.jpg,,,,LG Scarlet,,,,http://www.phonearena.com/phones/LG-Scarlet_id3351,
+10-Jul-09,,,,,,http://i-cdn.phonearena.com/images/phones/16584-specs/LG-GC990-Louvre.jpg,,,,LG GC990 Louvre,,,,http://www.phonearena.com/phones/LG-GC990-Louvre_id3848,
+13-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16585-specs/LG-LX290.jpg,,,,LG LX290,,,,http://www.phonearena.com/phones/LG-LX290_id3852,
+7-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16602-specs/LG-GW300.jpg,,,,LG GW300,,,,http://www.phonearena.com/phones/LG-GW300_id3829,
+16-Jun-09,,,Released, 4.58 x 2.42 x 0.47 inches, 2.4 inches,http://i-cdn.phonearena.com/images/phones/17571-specs/LG-GW550.jpg,,, Windows Mobile Standard (6.5),LG GW550,,, 320 x 240 pixels,http://www.phonearena.com/phones/LG-GW550_id4033,122 g
+16-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16990-specs/LG-GB210.jpg,,,,LG GB210,,,,http://www.phonearena.com/phones/LG-GB210_id3862,
+16-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18096-specs/LG-New-Chocolate-BL20.jpg,,,,LG New Chocolate BL20,,,,http://www.phonearena.com/phones/LG-New-Chocolate-BL20_id3863,
+29-May-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16731-specs/LG-GW520.jpg,,,,LG GW520,,,,http://www.phonearena.com/phones/LG-GW520_id3672,
+29-May-09,,,, 4.21 x 2.20 x 0.47 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/16736-specs/LG-GT505.jpg," Yes Camera Camera: 5 megapixels Flash: LED Features: Digital zoom Camcorder: Yes Features: Video calling Front-facing camera: Yes Hardware Processor: Processor - The processor is the main computing component of a phone and is a major factor when it comes to the overall speed of the device. Some more powerful smartphones use dual-core and quad-core processors designed to deliver greater performance. Single core, ARM9 System memory: System memory - System memory, or RAM memory is the type of memory that the device uses to temporarily store data from the OS or currently-running apps. The more RAM available to the device, the better the performance will be when multiple or heavier programs are running. 128 MB RAM / 256 MB ROM Built-in storage: 0.05 GB Storage expansion: microSD, microSDHC up to 8 GB Battery Talk time: 3.33 hours the average is 14 h (828 min) Stand-by time: 14.6 days (350 hours) the average is 17 days (417 h)",,,LG GT505,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-GT505_id3893,98 g
+21-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18716-specs/LG-Chocolate-Touch-VX8575.jpg,,,,LG Chocolate Touch VX8575,,,,http://www.phonearena.com/phones/LG-Chocolate-Touch-VX8575_id3876,
+14-Sep-09,,5 megapixels,Released, 4.29 x 2.15 x 0.63 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/18733-specs/LG-GW620.jpg, Yes,, Android (1.5),LG GW620,,, 320 x 480 pixels,http://www.phonearena.com/phones/LG-GW620_id3888,139 g
+28-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19450-specs/LG-GB125.jpg,,,,LG GB125,,,,http://www.phonearena.com/phones/LG-GB125_id4332,
+30-Jul-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16999-specs/LG-GB106.jpg,,,,LG GB106,,,,http://www.phonearena.com/phones/LG-GB106_id3956,
+7-Jul-09,,5 megapixels,,,,http://i-cdn.phonearena.com/images/phones/17602-specs/LG-New-Chocolate-BL40G.jpg, Multi-touch,,,LG New Chocolate BL40G,,, 345 x 800 pixels,http://www.phonearena.com/phones/LG-New-Chocolate-BL40G_id4046,
+3-Aug-09,,,,,,http://i-cdn.phonearena.com/images/phones/19607-specs/LG-KF311.jpg,,,,LG KF311,,,,http://www.phonearena.com/phones/LG-KF311_id3963,
+16-Feb-09,,,,,,http://i-cdn.phonearena.com/images/phones/17323-specs/LG-GD900F-Crystal.jpg,,,,LG GD900F Crystal,,,,http://www.phonearena.com/phones/LG-GD900F-Crystal_id4001,
+3-Aug-09,,,,,,http://i-cdn.phonearena.com/images/phones/19598-specs/LG-KF245.jpg,,,,LG KF245,,,,http://www.phonearena.com/phones/LG-KF245_id3970,91 g
+4-Aug-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/17249-specs/LG-GT500.jpg,,,,LG GT500,,,,http://www.phonearena.com/phones/LG-GT500_id3640,
+7-Aug-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/17567-specs/LG-GM750.jpg,,,,LG GM750,,,,http://www.phonearena.com/phones/LG-GM750_id3976,
+20-Aug-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/20715-specs/LG-GW525.jpg,,,,LG GW525,,,,http://www.phonearena.com/phones/LG-GW525_id4556,
+27-Aug-09,,,,,,http://i-cdn.phonearena.com/images/phones/17574-specs/LG-410G.jpg,,,,LG 410G,,,,http://www.phonearena.com/phones/LG-410G_id3255,
+2-Sep-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/17463-specs/LG-Bliss.jpg,,,,LG Bliss,,,,http://www.phonearena.com/phones/LG-Bliss_id3628,
+15-Sep-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19420-specs/LG-GB230.jpg,,,,LG GB230,,,,http://www.phonearena.com/phones/LG-GB230_id3663,
+17-Sep-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/17954-specs/LG-AX310.jpg,,,,LG AX310,,,,http://www.phonearena.com/phones/LG-AX310_id3817,
+9-Oct-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18372-specs/LG-Lyric-MT375.jpg,,,,LG Lyric MT375,,,,http://www.phonearena.com/phones/LG-Lyric-MT375_id4156,
+20-Oct-09,,,Released, 3.50 x 1.81 x 0.74 inches,,http://i-cdn.phonearena.com/images/phones/18807-specs/LG-220C.jpg,,,,LG 220C,,,,http://www.phonearena.com/phones/LG-220C_id3764,83 g
+21-Oct-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18808-specs/LG-290C.jpg,,,,LG 290C,,,,http://www.phonearena.com/phones/LG-290C_id4239,
+21-Oct-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18838-specs/LG-KG376.jpg,,,,LG KG376,,,,http://www.phonearena.com/phones/LG-KG376_id4247,
+22-Oct-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/22444-specs/LG-100C.jpg,,,,LG 100C,,,,http://www.phonearena.com/phones/LG-100C_id3741,70 g
+5-Nov-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/18710-specs/LG-KM555E.jpg,,,,LG KM555E,,,,http://www.phonearena.com/phones/LG-KM555E_id4209,
+11-Nov-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19418-specs/LG-GU230.jpg,,,,LG GU230,,,,http://www.phonearena.com/phones/LG-GU230_id4321,
+11-Nov-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/19413-specs/LG-GU280.jpg,,,,LG GU280,,,,http://www.phonearena.com/phones/LG-GU280_id4078,
+20-Jan-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12088-specs/LG-UX280-Wine.jpg,,,,LG UX280 Wine,,,,http://www.phonearena.com/phones/LG-UX280-Wine_id3416,
+27-Jan-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12126-specs/LG-CF360.jpg,,,,LG CF360,,,,http://www.phonearena.com/phones/LG-CF360_id3164,
+2-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/15417-specs/LG-GB110.jpg,,,,LG GB110,,,,http://www.phonearena.com/phones/LG-GB110_id3537,
+3-Feb-09,,,,,,http://i-cdn.phonearena.com/images/phones/12178-specs/LG-Neon.jpg,,,,LG Neon,,,,http://www.phonearena.com/phones/LG-Neon_id3446,
+3-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12633-specs/LG-KS660.jpg,,,,LG KS660,,,,http://www.phonearena.com/phones/LG-KS660_id3531,
+9-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12207-specs/LG-ARENA.jpg,,,,LG ARENA,,,,http://www.phonearena.com/phones/LG-ARENA_id3452,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12542-specs/LG-GB102.jpg,,,,LG GB102,,,,http://www.phonearena.com/phones/LG-GB102_id3520,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12541-specs/LG-GB130.jpg,,,,LG GB130,,,,http://www.phonearena.com/phones/LG-GB130_id3519,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12544-specs/LG-GB220.jpg,,,,LG GB220,,,,http://www.phonearena.com/phones/LG-GB220_id3522,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12543-specs/LG-GB250.jpg,,,,LG GB250,,,,http://www.phonearena.com/phones/LG-GB250_id3521,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/12491-specs/LG-KB770.jpg,,,,LG KB770,,,,http://www.phonearena.com/phones/LG-KB770_id3142,
+16-Feb-09,,,,,,http://i-cdn.phonearena.com/images/phones/18107-specs/LG-GM310G.jpg,,,,LG GM310G,,,,http://www.phonearena.com/phones/LG-GM310G_id4128,
+16-Feb-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/17445-specs/LG-GM310.jpg,,,,LG GM310,,,,http://www.phonearena.com/phones/LG-GM310_id3504,
+16-Feb-09,,,,, 2.8 inches,http://i-cdn.phonearena.com/images/phones/12493-specs/LG-KT770.jpg,,,,LG KT770,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-KT770_id3505,
+17-Feb-09,,,,,,http://i-cdn.phonearena.com/images/phones/12297-specs/LG-HQ.jpg,,, Windows Mobile Professional (6.1) Display ,LG HQ,,,,http://www.phonearena.com/phones/LG-HQ_id3482,
+16-Feb-09,,8 megapixels,Released,,,http://i-cdn.phonearena.com/images/phones/15406-specs/LG-Viewty-Smart.jpg, Multi-touch,,,LG Viewty Smart,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-Viewty-Smart_id3511,
+6-Mar-09,,,,,,http://i-cdn.phonearena.com/images/phones/15115-specs/LG-KM330.jpg,,,,LG KM330,,,,http://www.phonearena.com/phones/LG-KM330_id3625,
+6-Mar-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16920-specs/LG-GD330.jpg,,,,LG GD330,,,,http://www.phonearena.com/phones/LG-GD330_id3630,
+12-Mar-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/14167-specs/LG-Rumor2.jpg,,,,LG Rumor2,,,,http://www.phonearena.com/phones/LG-Rumor2_id3562,
+30-Mar-09,,2 megapixels,Released, 4.16 x 2.11 x 0.62 inches, 2.8 inches,http://i-cdn.phonearena.com/images/phones/15093-specs/LG-Xenon.jpg, Yes,,,LG Xenon,,, 240 x 400 pixels,http://www.phonearena.com/phones/LG-Xenon_id3564,108 g
+23-Mar-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/15062-specs/LG-Banter.jpg,,,,LG Banter,,,,http://www.phonearena.com/phones/LG-Banter_id3575,
+27-Mar-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16996-specs/LG-GM200.jpg,,,,LG GM200,,,,http://www.phonearena.com/phones/LG-GM200_id3656,
+28-May-09,,,Released,, 2.6 inches,http://i-cdn.phonearena.com/images/phones/16031-specs/LG-enV3.jpg,,,,LG enV3,,, 320 x 240 pixels,http://www.phonearena.com/phones/LG-enV3_id3622,107 g
+28-May-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16037-specs/LG-enV-Touch.jpg,,,,LG enV Touch,,,,http://www.phonearena.com/phones/LG-enV-Touch_id3626,
+16-Apr-09,,,,,,http://i-cdn.phonearena.com/images/phones/20714-specs/LG-GB250G.jpg,,,,LG GB250G,,,,http://www.phonearena.com/phones/LG-GB250G_id4553,
+28-May-09,,,Released,,,http://i-cdn.phonearena.com/images/phones/16040-specs/LG-Glance.jpg,,,,LG Glance,,,,http://www.phonearena.com/phones/LG-Glance_id3461,
+15-May-09,,,,,,http://i-cdn.phonearena.com/images/phones/19717-specs/LG-GM205.jpg,,,,LG GM205,,,,http://www.phonearena.com/phones/LG-GM205_id3492,
+22-Feb-10,,5 megapixels,Released, 4.24 x 2.18 x 0.48 inches, 3.0 inches,http://i-cdn.phonearena.com/images/phones/20354-specs/LG-ARENA.jpg, Multi-touch,,,LG ARENA,,, 480 x 800 pixels,http://www.phonearena.com/phones/LG-ARENA_id3720,105 g
+16-Nov-09,,,Released, 4.20 x 2.00 x 0.53 inches, 2.2 inches,http://i-cdn.phonearena.com/images/phones/18796-specs/LG-Shine-II.jpg,,,,LG Shine II,,, 240 x 320 pixels,http://www.phonearena.com/phones/LG-Shine-II_id3723,125 g
+2-Jun-09,,,,,,http://i-cdn.phonearena.com/images/phones/16063-specs/LG-GC900F.jpg,,,,LG GC900F,,,,http://www.phonearena.com/phones/LG-GC900F_id3754,
+17-Mar-00,,,,,,http://i-cdn.phonearena.com/images/phones/7265-specs/LG-Touchpoint-1100.jpg,,,,LG Touchpoint 1100,,,,http://www.phonearena.com/phones/LG-Touchpoint-1100_id52,119 g
+1-Jan-01,,,,,,http://i-cdn.phonearena.com/images/phones/7282-specs/LG-TP-5250.jpg,,,,LG TP 5250,,,,http://www.phonearena.com/phones/LG-TP-5250_id41,99 g
+1-Jan-01,,,,,,http://i-cdn.phonearena.com/images/phones/7280-specs/LG-TP3000.jpg,,,,LG TP3000,,,,http://www.phonearena.com/phones/LG-TP3000_id53,176 g
+14-Mar-01,,,,,,http://i-cdn.phonearena.com/images/phones/7295-specs/LG-TM220.jpg,,,,LG TM220,,,,http://www.phonearena.com/phones/LG-TM220_id589,
+30-Apr-01,,,,,,http://i-cdn.phonearena.com/images/phones/7300-specs/LG-TP5200.jpg,,,,LG TP5200,,,,http://www.phonearena.com/phones/LG-TP5200_id606,99 g
+12-Jul-01,,,,,,http://i-cdn.phonearena.com/images/phones/7315-specs/LG-VX-1--TM520.jpg,,,,LG VX-1 / TM520,,,,http://www.phonearena.com/phones/LG-VX-1--TM520_id381,108 g
+2-Nov-01,,,,,,http://i-cdn.phonearena.com/images/phones/7330-specs/LG-LG-4NE1.jpg,,,,LG LG 4NE1,,,,http://www.phonearena.com/phones/LG-LG-4NE1_id387,105 g
+11-Dec-01,,,,,,http://i-cdn.phonearena.com/images/phones/7335-specs/LG-TM510.jpg,,,,LG TM510,,,,http://www.phonearena.com/phones/LG-TM510_id73,120 g
+25-Feb-02,,,,,,http://i-cdn.phonearena.com/images/phones/7365-specs/LG-VX9000.jpg,,,,LG VX9000,,,,http://www.phonearena.com/phones/LG-VX9000_id608,135 g
+5-Apr-02,,,,,,http://i-cdn.phonearena.com/images/phones/7375-specs/LG-1010.jpg,,,,LG 1010,,,,http://www.phonearena.com/phones/LG-1010_id388,79 g
+8-May-02,,,,,,http://i-cdn.phonearena.com/images/phones/7388-specs/LG-VX-2000.jpg,,,,LG VX-2000,,,,http://www.phonearena.com/phones/LG-VX-2000_id435,113 g
+14-May-02,,,,,,http://i-cdn.phonearena.com/images/phones/7392-specs/LG-VX-4100.jpg,,,,LG VX-4100,,,,http://www.phonearena.com/phones/LG-VX-4100_id365,
+26-Jun-06,,,,,,http://i-cdn.phonearena.com/images/phones/8309-specs/LG-KG190.jpg,,,,LG KG190,,,,http://www.phonearena.com/phones/LG-KG190_id2114,85 g
+20-Feb-07,,,,,,http://i-cdn.phonearena.com/images/phones/7938-specs/LG-KU950.jpg,,,,LG KU950,,,,http://www.phonearena.com/phones/LG-KU950_id1996,
+22-Oct-07,,,,,,http://i-cdn.phonearena.com/images/phones/9103-specs/LG-VX5400.jpg,,,,LG VX5400,,,,http://www.phonearena.com/phones/LG-VX5400_id2119,
+19-Sep-08,,,Released,,,http://i-cdn.phonearena.com/images/phones/11626-specs/LG-AX155.jpg,,,,LG AX155,,,,http://www.phonearena.com/phones/LG-AX155_id2927,
+17-May-02,,,,,,http://i-cdn.phonearena.com/images/phones/7395-specs/LG-5350.jpg,,,,LG 5350,,,,http://www.phonearena.com/phones/LG-5350_id473,
+12-Jul-02,,,,,,http://i-cdn.phonearena.com/images/phones/7432-specs/LG-VX-10.jpg,,,,LG VX-10,,,,http://www.phonearena.com/phones/LG-VX-10_id468,108 g
+13-Sep-02,,,,,,http://i-cdn.phonearena.com/images/phones/6985-specs/LG-VX-3100--VX-3100A--VX-3100L.jpg,,,,LG VX 3100 / VX 3100A / VX 3100L,,,,http://www.phonearena.com/phones/LG-VX-3100--VX-3100A--VX-3100L_id622,89 g
+19-Dec-02,,,,,,http://i-cdn.phonearena.com/images/phones/7017-specs/LG-5450--LX5450.jpg,,,,LG 5450 / LX5450,,,,http://www.phonearena.com/phones/LG-5450--LX5450_id817,
+30-Jan-03,,,,,,http://i-cdn.phonearena.com/images/phones/7044-specs/LG-VX-6000.jpg,,,,LG VX-6000,,,,http://www.phonearena.com/phones/LG-VX-6000_id528,
+21-Mar-03,,,,,,http://i-cdn.phonearena.com/images/phones/7063-specs/LG-VX-4500.jpg,,,,LG VX 4500,,,,http://www.phonearena.com/phones/LG-VX-4500_id560,
+31-Mar-03,,,,,,http://i-cdn.phonearena.com/images/phones/7067-specs/LG-LX5550--VX5550.jpg,,,,LG LX5550 / VX5550,,,,http://www.phonearena.com/phones/LG-LX5550--VX5550_id559,
+3-Apr-03,,,,,,http://i-cdn.phonearena.com/images/phones/7072-specs/LG-VX4600.jpg,,,,LG VX4600,,,,http://www.phonearena.com/phones/LG-VX4600_id561,
+1-May-03,,,,,,http://i-cdn.phonearena.com/images/phones/7085-specs/LG-G4010--G4011.jpg,,,,LG G4010 / G4011,,,,http://www.phonearena.com/phones/LG-G4010--G4011_id701,79 g
+28-May-03,,,,,,http://i-cdn.phonearena.com/images/phones/7101-specs/LG-G4050.jpg,,,,LG G4050,,,,http://www.phonearena.com/phones/LG-G4050_id708,
+9-Jul-03,,,,,,http://i-cdn.phonearena.com/images/phones/7121-specs/LG-5400--5400A.jpg,,,,LG 5400 / 5400A,,,,http://www.phonearena.com/phones/LG-5400--5400A_id816,
+26-Nov-03,,,,,,http://i-cdn.phonearena.com/images/phones/7195-specs/LG-VX7000--VX7000A.jpg,,,,LG VX7000 / VX7000A,,,,http://www.phonearena.com/phones/LG-VX7000--VX7000A_id710,
