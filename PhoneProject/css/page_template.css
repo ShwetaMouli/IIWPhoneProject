@@ -1,12 +1,45 @@
+@import url('https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css');
+
 .all_background {
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
 }
+
+.jumbotron {
+	background-color: #0489B1;
+	color: #F2F2F2;
+	text-align: center;
+}
+
 .tbody{
-  overflow-y: scroll;
-  height: 300px;
+  height: 100%;
   width: 100%;
-  position: absolute;
+  display: block;
+}
+
+body {
+    padding: 2em;
+}
+
+.panel-group .list-group .list-group-item {
+	border-radius: 0;
+	border-left: none;
+	border-right: none;
+}
+
+.panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+ 	content: "\e114";
+    float: right; 
+    color: grey; 
+}
+.panel-heading a.collapsed:after {
+	content: "\e080"; 
+}
+
+.caro_img {
+    display: block;
+    margin: 0 auto;
 }

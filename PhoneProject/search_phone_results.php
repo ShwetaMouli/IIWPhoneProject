@@ -1,7 +1,10 @@
 <?php require_once 'dbconfig.php';
 
 if(isset($_POST['search_text']) && !empty($_POST['search_text']) ){
-	$result = mysqli_query($con,"SELECT * FROM phonearena where phone_model ='".$_POST['search_text']."'");
+	$result = mysqli_query($con,"SELECT phone_model,announced_date,
+	battery,camera,current_status,dimensions,image,display_inches,
+	is_Touch,memory,os,processor,ram,resolution,url,weight FROM tringguide where phone_model ='".$_POST['search_text']."'");
+	
 	$img_url=null;
 	$site_url=null;
 	$model=null;
